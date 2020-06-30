@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDE_2912_az\lesson_30_06_20\Debug\lesson_30_06_20.exe
+C:\Qt\Projects\FSDE_2912_az\lesson_30_06_20\Debug\lesson_30_06_20.pdb
