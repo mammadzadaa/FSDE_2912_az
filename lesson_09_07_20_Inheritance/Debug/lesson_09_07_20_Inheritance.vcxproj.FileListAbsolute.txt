@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDE_2912_az\lesson_09_07_20_Inheritance\Debug\lesson_09_07_20_Inheritance.exe
+C:\Qt\Projects\FSDE_2912_az\lesson_09_07_20_Inheritance\Debug\lesson_09_07_20_Inheritance.pdb
