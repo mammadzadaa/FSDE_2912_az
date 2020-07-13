@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDE_2912_az\lesson_13_07_20_VTable_Polimorphism\Debug\lesson_13_07_20_VTable_Polimorphism.exe
+C:\Qt\Projects\FSDE_2912_az\lesson_13_07_20_VTable_Polimorphism\Debug\lesson_13_07_20_VTable_Polimorphism.pdb

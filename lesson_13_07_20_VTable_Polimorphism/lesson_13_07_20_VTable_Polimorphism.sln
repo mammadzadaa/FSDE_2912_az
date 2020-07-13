@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_13_07_20_VTable_Polimorphism", "lesson_13_07_20_VTable_Polimorphism.vcxproj", "{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}.Debug|x64.ActiveCfg = Debug|x64
+		{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}.Debug|x64.Build.0 = Debug|x64
+		{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}.Debug|x86.Build.0 = Debug|Win32
+		{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}.Release|x64.ActiveCfg = Release|x64
+		{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}.Release|x64.Build.0 = Release|x64
+		{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}.Release|x86.ActiveCfg = Release|Win32
+		{EE2B8698-2D6A-4EE5-9733-7D82B6AC6C40}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64BE4BDB-30F8-48D0-9529-ECCB5B161429}
+	EndGlobalSection
+EndGlobal

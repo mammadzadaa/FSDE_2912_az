@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Qt\Projects\FSDE_2912_az\lesson_13_07_20_VTable_Polimorphism\Source.cpp(143,2): warning C4091: 'static ': ignored on left of 'DataAlanizer' when no variable is declared
+  lesson_13_07_20_VTable_Polimorphism.vcxproj -> C:\Qt\Projects\FSDE_2912_az\lesson_13_07_20_VTable_Polimorphism\Debug\lesson_13_07_20_VTable_Polimorphism.exe
