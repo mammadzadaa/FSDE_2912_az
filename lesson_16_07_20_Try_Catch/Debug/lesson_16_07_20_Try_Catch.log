@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Qt\Projects\FSDE_2912_az\lesson_16_07_20_Try_Catch\Source.cpp(44,2): warning C4091: 'static ': ignored on left of 'Calculator' when no variable is declared
+C:\Qt\Projects\FSDE_2912_az\lesson_16_07_20_Try_Catch\Source.cpp(101,6): warning C4834: discarding return value of function with 'nodiscard' attribute
+  lesson_16_07_20_Try_Catch.vcxproj -> C:\Qt\Projects\FSDE_2912_az\lesson_16_07_20_Try_Catch\Debug\lesson_16_07_20_Try_Catch.exe

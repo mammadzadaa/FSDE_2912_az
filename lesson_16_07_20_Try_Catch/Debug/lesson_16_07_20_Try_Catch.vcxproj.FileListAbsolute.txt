@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDE_2912_az\lesson_16_07_20_Try_Catch\Debug\lesson_16_07_20_Try_Catch.exe
+C:\Qt\Projects\FSDE_2912_az\lesson_16_07_20_Try_Catch\Debug\lesson_16_07_20_Try_Catch.pdb
