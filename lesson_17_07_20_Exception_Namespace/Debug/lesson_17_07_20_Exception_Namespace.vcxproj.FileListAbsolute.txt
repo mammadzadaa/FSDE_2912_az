@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDE_2912_az\lesson_17_07_20_Exception_Namespace\Debug\lesson_17_07_20_Exception_Namespace.exe
+C:\Qt\Projects\FSDE_2912_az\lesson_17_07_20_Exception_Namespace\Debug\lesson_17_07_20_Exception_Namespace.pdb

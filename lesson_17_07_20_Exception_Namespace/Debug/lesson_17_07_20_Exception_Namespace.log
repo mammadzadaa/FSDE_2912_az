@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Qt\Projects\FSDE_2912_az\lesson_17_07_20_Exception_Namespace\Source.cpp(62,22): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Qt\Projects\FSDE_2912_az\lesson_17_07_20_Exception_Namespace\Source.cpp(69): warning C4172: returning address of local variable or temporary: buf
+  lesson_17_07_20_Exception_Namespace.vcxproj -> C:\Qt\Projects\FSDE_2912_az\lesson_17_07_20_Exception_Namespace\Debug\lesson_17_07_20_Exception_Namespace.exe
