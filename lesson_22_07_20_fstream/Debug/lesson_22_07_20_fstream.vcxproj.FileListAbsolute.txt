@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDE_2912_az\lesson_22_07_20_fstream\Debug\lesson_22_07_20_fstream.exe
+C:\Qt\Projects\FSDE_2912_az\lesson_22_07_20_fstream\Debug\lesson_22_07_20_fstream.pdb
