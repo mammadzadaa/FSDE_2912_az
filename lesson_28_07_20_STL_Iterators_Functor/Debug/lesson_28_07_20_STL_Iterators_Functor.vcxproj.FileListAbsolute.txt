@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDE_2912_az\lesson_28_07_20_STL_Iterators_Functor\Debug\lesson_28_07_20_STL_Iterators_Functor.exe
+C:\Qt\Projects\FSDE_2912_az\lesson_28_07_20_STL_Iterators_Functor\Debug\lesson_28_07_20_STL_Iterators_Functor.pdb

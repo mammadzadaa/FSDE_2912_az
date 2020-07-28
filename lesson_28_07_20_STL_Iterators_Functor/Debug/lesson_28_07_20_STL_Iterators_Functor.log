@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Qt\Projects\FSDE_2912_az\lesson_28_07_20_STL_Iterators_Functor\Source.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+C:\Qt\Projects\FSDE_2912_az\lesson_28_07_20_STL_Iterators_Functor\Source.cpp(109): message : see reference to function template instantiation 'void print_arr<int(__cdecl *)(int,int)>(int *,int,T)' being compiled
+          with
+          [
+              T=int (__cdecl *)(int,int)
+          ]
+C:\Qt\Projects\FSDE_2912_az\lesson_28_07_20_STL_Iterators_Functor\Source.cpp(93,1): error C2198: 'T': too few arguments for call
+          with
+          [
+              T=int (__cdecl *)(int,int)
+          ]
