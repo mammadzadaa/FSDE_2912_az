@@ -1,0 +1,2 @@
+C:\Qt\Projects\FSDE_2912_az\lesson_30_07_20_STL_Practice\Debug\lesson_30_07_20_STL_Practice.exe
+C:\Qt\Projects\FSDE_2912_az\lesson_30_07_20_STL_Practice\Debug\lesson_30_07_20_STL_Practice.pdb
