@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\bin\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\bin\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\bin\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\bin\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\bin\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\bin\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\obj\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\obj\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\obj\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\obj\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\obj\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\obj\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_02_09_20_Array_String\obj\Debug\netcoreapp3.1\Lesson_02_09_20_Array_String.genruntimeconfig.cache
