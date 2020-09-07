@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson_07_09_20_Exceptions_Indexers/1.0.0": {
+        "runtime": {
+          "Lesson_07_09_20_Exceptions_Indexers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_07_09_20_Exceptions_Indexers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

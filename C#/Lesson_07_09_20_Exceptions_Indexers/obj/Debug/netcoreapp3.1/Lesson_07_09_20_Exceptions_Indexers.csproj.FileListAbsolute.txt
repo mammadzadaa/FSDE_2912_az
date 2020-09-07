@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\bin\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\bin\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\bin\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\bin\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\bin\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\bin\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\obj\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\obj\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\obj\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\obj\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\obj\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\obj\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_07_09_20_Exceptions_Indexers\obj\Debug\netcoreapp3.1\Lesson_07_09_20_Exceptions_Indexers.genruntimeconfig.cache
