@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\bin\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\bin\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\bin\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\bin\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\bin\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\bin\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\obj\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\obj\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\obj\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\obj\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\obj\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\obj\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_08_09_20_Operator_overload\obj\Debug\netcoreapp3.1\Lesson_08_09_20_Operator_overload.genruntimeconfig.cache
