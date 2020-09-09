@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4WSaRbMspq9rKJ932Vra/1S7TMVtTPRqleF+AcncvE13V2FQI3jP8OHApR8WqSYkvG9MZMwzfZHxlDd5dhuu4w==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\C#\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

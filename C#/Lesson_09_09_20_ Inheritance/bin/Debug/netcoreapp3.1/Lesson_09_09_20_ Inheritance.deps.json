@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson_09_09_20_ Inheritance/1.0.0": {
+        "dependencies": {
+          "Zoo": "1.0.0"
+        },
+        "runtime": {
+          "Lesson_09_09_20_ Inheritance.dll": {}
+        }
+      },
+      "Zoo/1.0.0": {
+        "runtime": {
+          "Zoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_09_09_20_ Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

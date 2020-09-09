@@ -1,0 +1,8 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Zoo\bin\Debug\netstandard2.0\Zoo.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Zoo\bin\Debug\netstandard2.0\Zoo.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Zoo\bin\Debug\netstandard2.0\Zoo.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Zoo\obj\Debug\netstandard2.0\Zoo.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Zoo\obj\Debug\netstandard2.0\Zoo.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Zoo\obj\Debug\netstandard2.0\Zoo.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Zoo\obj\Debug\netstandard2.0\Zoo.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Zoo\obj\Debug\netstandard2.0\Zoo.pdb
