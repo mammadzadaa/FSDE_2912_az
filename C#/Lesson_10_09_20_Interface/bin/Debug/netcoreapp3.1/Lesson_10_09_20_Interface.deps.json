@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson_10_09_20_Interface/1.0.0": {
+        "runtime": {
+          "Lesson_10_09_20_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_10_09_20_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
