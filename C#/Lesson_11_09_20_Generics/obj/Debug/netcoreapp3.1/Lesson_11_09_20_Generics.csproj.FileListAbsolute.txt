@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\bin\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\bin\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\bin\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\bin\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\bin\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\bin\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\obj\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\obj\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\obj\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\obj\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\obj\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\obj\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_11_09_20_Generics\obj\Debug\netcoreapp3.1\Lesson_11_09_20_Generics.genruntimeconfig.cache
