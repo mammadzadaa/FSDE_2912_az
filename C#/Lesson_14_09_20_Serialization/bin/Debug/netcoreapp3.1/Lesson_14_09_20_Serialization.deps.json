@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson_14_09_20_Serialization/1.0.0": {
+        "runtime": {
+          "Lesson_14_09_20_Serialization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_14_09_20_Serialization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\bin\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\bin\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\bin\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\bin\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\bin\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\bin\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\obj\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\obj\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\obj\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\obj\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\obj\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\obj\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_14_09_20_Serialization\obj\Debug\netcoreapp3.1\Lesson_14_09_20_Serialization.genruntimeconfig.cache
