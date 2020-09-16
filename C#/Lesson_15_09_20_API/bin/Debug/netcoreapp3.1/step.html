@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title></title>
+<link rel="shortcut icon" href="/dist/images/logo/favicon-blue.ico">
+<link href="/dist/main.css?v=1600172857" rel="stylesheet">
+<link href="/dist/maps.css" rel="stylesheet"> <script>
+        var demoCookie = '1';
+    </script>
+</head><body id="academy_app" class="font_lang_en">
+<script>
+    var YII_ENV = 'prod';
+    var LANG_PREFIX = 'en';
+    var LANG_ID = '2';
+</script>
+<header class="header">
+<div class="header__top">
+<div class="header-content">
+<div class="header__logo logo">
+<a class="logo__link logo__link--ru" href="/">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="header__bottom">
+<nav class="main-nav">
+<button type="button" class="menu-toggle" id="mob-menu">
+<span class="menu-toggle__line"></span>
+<span class="menu-toggle__line"></span>
+<span class="menu-toggle__line"></span>
+</button>
+<ul class="main-nav__menu menu">
+<li class="menu__item">
+<a class="menu__link " href="/about-academy">
+About Us </a>
+</li>
+<li class="menu__item">
+<a class="menu__link " href="/education">
+Education </a>
+</li>
+<li class="menu__item">
+<a class=" menu__link " href="/review_2">
+Student stories </a>
+</li>
+<li class="menu__item">
+<a class=" menu__link " href="/news-ru">
+News </a>
+</li>
+<li class="menu__item">
+<a class="menu__link " href="/blog">
+Blog </a>
+</li>
+</ul>
+<select name="lang-menu" id="lang_menu" class="lang-menu__select-hub">
+<option value="/ru" class="lang-menu__option">
+ru </option>
+<option value="/en" selected="selected" class="lang-menu__option">
+en </option>
+<option value="/uk" class="lang-menu__option">
+uk </option>
+<option value="/pt" class="lang-menu__option">
+pt </option>
+<option value="/es" class="lang-menu__option">
+es </option>
+<option value="/cs" class="lang-menu__option">
+cs </option>
+<option value="/sk" class="lang-menu__option">
+sk </option>
+<option value="/az" class="lang-menu__option">
+ az </option>
+<option value="/bg" class="lang-menu__option">
+bg </option>
+<option value="/pl" class="lang-menu__option">
+pl </option>
+<option value="/fr" class="lang-menu__option">
+fr </option>
+<option value="/uz" class="lang-menu__option">
+uz </option>
+<option value="/de" class="lang-menu__option">
+de </option>
+<option value="/ro" class="lang-menu__option">
+ro </option>
+<option value="/ka" class="lang-menu__option">
+ka </option>
+<option value="/km" class="lang-menu__option">
+km </option>
+<option value="/md" class="lang-menu__option">
+md </option>
+<option value="/vi" class="lang-menu__option">
+vi </option>
+</select>
+</nav>
+</div>
+</header>
+<main class="home-hub-page">
+<template id="brasil">
+<div class="marker-city rio-de-gan-small">
+<span class="main-rio-de-gan">Rio de Janeiro</span>
+<a href="https://itstep.com.br/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/brazil.svg" alt="" class="country-circle__figure" data-name="Brazil">
+</template>
+<template id="cambodia">
+<div class="marker-city pnompen-small">
+<span>Phnom Penh</span>
+<a href="https://cambodia.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/cambodia.svg" alt="" class="country-circle__figure" data-name="Cambodia">
+</template>
+<template id="mexico">
+<div class="marker-city tihuana-small">
+<span class="main-tihuana">Tijuana</span>
+<a href="https://itstep.mx/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/mexico.svg" alt="" class="country-circle__figure" data-name="Mexico">
+</template>
+<template id="switzerland">
+<div class="marker-city geneva-small">
+<span class="main-geneva">Geneva</span>
+<a href="https://geneva.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/switzerland.svg" alt="" class="country-circle__figure" data-name="Switzerland">
+</template>
+<template id="georgia">
+<div class="marker-city tbilisi-small">
+<span class="main-tbilisi">Tbilisi</span>
+<a href="https://ge.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city telavi-small">
+<a href="https://ge.itstep.org/"><div class='marker-point'></div></a>
+<span>Telavi</span>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/georgia.svg" alt="" class="country-circle__figure" data-name="Georgia">
+</template>
+<template id="romania">
+<div class="marker-city buharest-small">
+<span>Bucharest</span>
+<a href="https://bucharest.itstep.org"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/romania.svg" alt="" class="country-circle__figure" data-name="Romania">
+</template>
+<template id="czech">
+<div class="marker-city praha-small">
+<a href="https://praha.itstep.org/"><div class='marker-point'></div></a>
+<span class="main-praha">Praha</span>
+</div>
+<div class="marker-city brno-small">
+<span>Brno</span>
+<a href="https://brno.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city ostrava-small">
+<span>Ostrava</span>
+<a href="https://ostrava.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/czech.svg" alt="" class="country-circle__figure" data-name="Czech">
+</template>
+<template id="belarus">
+<div class="marker-city vitebsk-small">
+<span>Vitebsk</span>
+<a href="https://itstep.by/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city mogilev-small">
+<span>Mogilev</span>
+<a href="https://itstep.by/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city minsk-small">
+<span>Minsk</span>
+<a href="https://itstep.by/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city bobruysk-small">
+<span>Babruysk</span>
+<a href="https://itstep.by/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city homel-small">
+<span>Gomel</span>
+<a href="https://gomel.itstep.by/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city hrodno-small">
+<span>Grodno</span>
+<a href="https://itstep.by/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city brest-small">
+<span>Brest</span>
+<a href="https://itstep.by/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/belarus.svg" alt="" class="country-circle__figure" data-name="Belarus">
+</template>
+<template id="azerbaijan">
+<div class="marker-city baku-small">
+<span>Baku</span>
+<a href="https://itstep.az/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/azerbaijan.svg" alt="" class="country-circle__figure" data-name="Azerbaijan">
+</template>
+<template id="slovakia">
+<div class="marker-city bratislava-small">
+<span class="main-bratislava">Bratislava</span>
+<a href="https://bratislava.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/slovakia.svg" alt="" class="country-circle__figure" data-name="Slovakia">
+</template>
+<template id="poland">
+<div class="marker-city warsav-small">
+<span>Warszawa</span>
+<a href="https://warszawa.itstep.org"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/poland.svg" alt="" class="country-circle__figure" data-name="Poland">
+</template>
+<template id="moldova">
+<div class="marker-city kishinev-small">
+<span>Chisinau</span>
+<a href="https://itstep.md/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/moldova.svg" alt="" class="country-circle__figure" data-name="Moldova">
+</template>
+<template id="bulgaria">
+<div class="marker-city sofia-small">
+<span>Sofia</span>
+<a href="https://itstep.bg/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/bulgaria.svg" alt="" class="country-circle__figure" data-name="Bulgaria">
+</template>
+<template id="uzbekistan">
+<div class="marker-city tashkent-small">
+<span>Tashkent</span>
+<a href="https://tashkent.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/uzbekistan.svg" alt="" class="country-circle__figure" data-name="Uzbekistan">
+</template>
+<template id="kazakhstan">
+<div class="marker-city nursultan-small">
+<span>Nur-Sultan</span>
+<a href="https://astana.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city caraganda-small">
+<span>Karaganda</span>
+<a href="https://karaganda.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city almaty-small">
+<span>Almaty</span>
+<a href="https://almaty.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/kazakhstan.svg" alt="" class="country-circle__figure" data-name="Kazakhstan">
+</template>
+<template id="usa">
+<div class="marker-city sietl-small">
+<span>Seattle</span>
+<a href="https://itstep.us/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/usa.svg" alt="" class="country-circle__figure" data-name="USA">
+</template>
+<style>
+    svg { -webkit-background-clip: text; }
+</style>
+<template id="russia">
+<div class="marker-city novosib-small">
+<span>Novosibirsk</span>
+<a href="https://nsk.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city nnovgorod-small">
+<span>Nizhny Novgorod</span>
+<a href="https://nn.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city piter-small">
+<span class="main-piter">Saint Petersburg</span>
+<a href="https://itstep.spb.ru/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city moscow-small">
+<span>Moscow</span>
+<a href="https://msk.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city tula-small">
+<span class="name-transparent">Tula</span>
+<a href="https://tula.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city voroneg-small">
+<span class="name-transparent">Voronezh</span>
+<a href="https://vrn.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city rostov-small">
+<span>Rostov-on-Don</span>
+<a href="https://rostov.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city krasnodar-small">
+<span>Krasnodar</span>
+<a href="https://krd.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city ekaterinburg-small">
+<span class="name-transparent">Yekaterinburg</span>
+<a href="https://ekat.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city chelyabinsk-small">
+<span class="name-transparent">Chelyabinsk</span>
+<a href="https://chel.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city omsk-small">
+<span class="name-transparent">Omsk</span>
+<a href="https://omsk.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city krasnoyarsk-small">
+<span class="name-transparent">Krasnoyarsk</span>
+<a href="https://krsk.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city perm-small">
+<span class="name-transparent">Perm</span>
+<a href="https://perm.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city kazan-small">
+<span class="name-transparent">Kazan</span>
+<a href="https://kazan.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city samara-small">
+<span class="name-transparent">Samara</span>
+<a href="https://samara.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city ufa-small">
+<span class="name-transparent">Ufa</span>
+<a href="https://ufa.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city volgograd-small">
+<span class="name-transparent">Volgograd</span>
+<a href="https://volgograd.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city yaroslavl-small">
+<span class="name-transparent">Yaroslavl</span>
+<a href="https://yar.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/russia.svg" alt="" class="country-circle__figure" data-name="Russia">
+</template>
+<template id="ukraine">
+<div class="marker-city kiev-small">
+<span>Kiev</span>
+<a href="https://kiev.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city gitomir-small">
+<span class="name-transparent">Zhytomyr</span>
+<a href="https://zhitomir.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city rovno-small">
+<span class="name-transparent">Rivne</span>
+<a href="https://rivne.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city lutsk-small">
+<span class="name-transparent">Lutsk</span>
+<a href="https://lutsk.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city ternopol-small">
+<span class="name-transparent">Ternopil</span>
+<a href="https://te.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city lviv-small">
+<span>Lviv</span>
+<a href="https://lviv.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city hmelnic-small">
+<span class="name-transparent">Khmelnitskiy</span>
+<a href="https://khm.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city ujgorod-small">
+ <span class="name-transparent">Uzhgorod</span>
+<a href="https://uzhgorod.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city ifrank-small">
+<span class="name-transparent">Ivano-Frankivsk</span>
+<a href="https://if.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city chernovci-small">
+<span class="name-transparent">Chernivtsi</span>
+<a href="https://chernivtsi.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city vinnica-small">
+<span class="name-transparent">Vinnytsia</span>
+<a href="https://vinnitsa.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city chernigov-small">
+<span class="name-transparent">Chernihiv</span>
+<a href="https://chernigov.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city sumi-small">
+<span class="name-transparent">Sumy</span>
+<a href="https://sumy.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city cremenchug-small">
+<span class="name-transparent">Kremenchuk</span>
+<a href="https://kremen.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city cherkassi-small">
+<span class="name-transparent">Cherkasy</span>
+<a href="https://cherkasy.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city cropivnickiy-small">
+<span class="name-transparent">Kropyvnytskyi</span>
+<a href="https://krop.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city nikolaev-small">
+<span class="name-transparent">Nikolaev</span>
+<a href="https://nikolaev.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city odessa-small">
+<span>Odesa</span>
+<a href="https://od.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city herson-small">
+<span class="name-transparent">Kherson</span>
+<a href="https://kherson.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city melitopol-small">
+<span class="name-transparent">Melitopol</span>
+<a href="https://melitopol.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city krrog-small">
+<span class="name-transparent">Krivoy Rog</span>
+<a href="https://kr.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city kamenskoe-small">
+<span class="name-transparent">Kamenskoe</span>
+<a href="https://kam.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city poltava-small">
+<span class="name-transparent">Poltava</span>
+<a href="https://poltava.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city zaporoge-small">
+<span class="name-transparent">Zaporizhia</span>
+<a href="https://itstep.zp.ua/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city dnepr-small">
+<span>Dnieper</span>
+<a href="https://itstep.dp.ua/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city harkiv-small">
+<span>Kharkov</span>
+<a href="https://itstep.kh.ua/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city severdoneck-small">
+<span class="name-transparent">Severodonetsk</span>
+<a href="https://sd.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city kramatorsk-small">
+<span class="name-transparent">Kramatorsk</span>
+<a href="https://kramatorsk.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city mariupol-small">
+<span class="name-transparent">Mariupol</span>
+<a href="https://mariupol.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<div class="marker-city berdyansk-small">
+<span class="name-transparent">Berdyansk</span>
+<a href="https://berdyansk.itstep.org/"><div class='marker-point'></div></a>
+</div>
+<img src="/dist/images/HUB/countries_map/gray-countries/ukraine.svg" alt="" class="country-circle__figure" data-name="Ukraine">
+</template>
+
+<template id="brasil-selector">
+<option value="">Select town</option>
+<option value="https://itstep.com.br/">Rio de Janeiro</option>
+</template>
+<template id="cambodia-selector">
+<option value="">Select town</option>
+<option value="https://cambodia.itstep.org/">Phnom Penh</option>
+</template>
+<template id="mexico-selector">
+<option value="">Select town</option>
+<option value="https://itstep.mx/">Tijuana</option>
+</template>
+<template id="switzerland-selector">
+<option value="">Select town</option>
+<option value="https://geneva.itstep.org/">Geneva</option>
+</template>
+<template id="georgia-selector">
+<option value="">Select town</option>
+<option value="https://ge.itstep.org/">Tbilisi</option>
+<option value="https://ge.itstep.org/">Telavi</option>
+</template>
+<template id="romania-selector">
+<option value="">Select town</option>
+<option value="https://bucharest.itstep.org">Bucharest</option>
+</template>
+<template id="czech-selector">
+<option value="">Select town</option>
+<option value="https://praha.itstep.org/">Praha</option>
+<option value="https://brno.itstep.org/">Brno </option><option value="https://ostrava.itstep.org/">Ostrava</option>
+</template>
+<template id="belarus-selector">
+<option value="">Select town</option>
+<option value="https://itstep.by/">country_name_vitebsk</option>
+<option value="https://itstep.by/">country_name_mogilev</option>
+<option value="https://itstep.by/">country_name_minsk</option>
+<option value="https://itstep.by/">country_name_bobruisk</option>
+<option value="https://itstep.by/">country_name_gomel</option>
+<option value="https://itstep.by/">country_name_grodno</option>
+<option value="https://itstep.by/">country_name_brest</option>
+</template>
+<template id="azerbaijan-selector">
+<option value="">Select town</option>
+<option value="https://itstep.az/">Baku</option>
+</template>
+<template id="slovakia-selector">
+<option value="">Select town</option>
+<option value="https://bratislava.itstep.org/">Bratislava</option>
+</template>
+<template id="poland-selector">
+<option value="">Select town</option>
+<option value="https://warszawa.itstep.org">Warszawa</option>
+</template>
+<template id="moldova-selector">
+<option value="">Select town</option>
+<option value="https://itstep.md/">Chisinau</option>
+</template>
+<template id="bulgaria-selector">
+<option value="">Select town</option>
+<option value="https://itstep.bg/">Sofia</option>
+</template>
+<template id="uzbekistan-selector">
+<option value="">Select town</option>
+<option value="https://tashkent.itstep.org/">Tashkent</option>
+</template>
+<template id="kazakhstan-selector">
+<option value="">Select town</option>
+<option value="https://astana.itstep.org/">Nur-Sultan</option>
+<option value="https://karaganda.itstep.org/">Karaganda</option>
+<option value="https://almaty.itstep.org/">Almaty</option>
+</template>
+<template id="usa-selector">
+<option value="">Select town</option>
+<option value="https://itstep.us/">Seattle</option>
+</template>
+<template id="russia-selector">
+<option value="">Select town</option>
+<option value="https://nsk.itstep.org/">Novosibirsk</option>
+<option value="https://nn.itstep.org/">Nizhny Novgorod</option>
+<option value="https://itstep.spb.ru/">Saint Petersburg</option>
+<option value="https://msk.itstep.org/">Moscow</option>
+<option value="https://tula.itstep.org/">Tula</option>
+<option value="https://vrn.itstep.org/">Voronezh</option>
+<option value="https://rostov.itstep.org/">Rostov-on-Don</option>
+<option value="https://krd.itstep.org/">Krasnodar</option>
+<option value="https://ekat.itstep.org/">Yekaterinburg</option>
+<option value="https://chel.itstep.org/">Chelyabinsk</option>
+<option value="https://omsk.itstep.org/">Omsk</option>
+<option value="https://krsk.itstep.org/">Krasnoyarsk</option>
+<option value="https://perm.itstep.org/">Perm</option>
+<option value="https://kazan.itstep.org/">Kazan</option>
+<option value="https://samara.itstep.org/">Samara</option>
+<option value="https://ufa.itstep.org/">Ufa</option>
+<option value="https://volgograd.itstep.org/">Volgograd</option>
+<option value="https://yar.itstep.org/">Yaroslavl</option>
+</template>
+<template id="ukraine-selector">
+<option value="">Select town</option>
+<option value="https://kiev.itstep.org/">Kiev</option>
+<option value="https://zhitomir.itstep.org/">Zhytomyr</option>
+<option value="https://rivne.itstep.org/">Rivne</option>
+<option value="https://lutsk.itstep.org/">Lutsk</option>
+<option value="https://te.itstep.org/">Ternopil</option>
+<option value="https://lviv.itstep.org/">Lviv</option>
+<option value="https://khm.itstep.org/">Khmelnitskiy</option>
+<option value="https://uzhgorod.itstep.org/">Uzhgorod</option>
+<option value="https://if.itstep.org/">Ivano-Frankivsk</option>
+<option value="https://chernivtsi.itstep.org/">Chernivtsi</option>
+<option value="https://vinnitsa.itstep.org/">Vinnytsia</option>
+<option value="https://chernigov.itstep.org/">Chernihiv</option>
+<option value="https://sumy.itstep.org/">Sumy</option>
+<option value="https://kremen.itstep.org/">Kremenchuk</option>
+<option value="https://cherkasy.itstep.org/">Cherkasy</option>
+<option value="https://krop.itstep.org/">Kropyvnytskyi</option>
+<option value="https://nikolaev.itstep.org/">Nikolaev</option>
+<option value="https://od.itstep.org/">Odesa</option>
+<option value="https://kherson.itstep.org/">Kherson</option>
+<option value="https://kr.itstep.org/">Krivoy Rog</option>
+<option value="https://kam.itstep.org/">Kamenskoe</option>
+<option value="https://poltava.itstep.org/">Poltava</option>
+<option value="https://itstep.zp.ua/">Zaporizhia</option>
+<option value="https://itstep.dp.ua/">Dnieper</option>
+<option value="https://itstep.kh.ua/">Kharkov</option>
+<option value="https://sd.itstep.org/">Severodonetsk</option>
+<option value="https://kramatorsk.itstep.org/">Kramatorsk</option>
+<option value="https://mariupol.itstep.org/">Mariupol</option>
+<option value="https://berdyansk.itstep.org/">Berdyansk</option>
+<option value="https://melitopol.itstep.org/">Melitopol</option>
+</template>
+<section class="map section-wide section-wide--padding">
+<div class="map__title title">
+<div class="title__back-over center">Select branch</div>
+<h1 class="title__h1 center_position_choise center">Select branch</h1>
+</div>
+<div class="big-map">
+<div class="country-circle">
+<div class="country-circle__wrap"></div>
+</div>
+<div class="flag-circle">
+<div class="country_text"></div>
+<div class="flag-circle__wrap"></div>
+</div>
+</div>
+<div class="mobile-map">
+<div class="map-selector">
+<div class="map-selector__flag">
+<img src="#" alt="" class="country-circle__figure" data-name="Brazil"></div>
+<div class="map-selector__info">
+<p class="map-selector__info-name"></p>
+<p class="map-selector__info-count"></p>
+</div>
+<div class="map-selector__select">
+<div class="events-filter__list">
+<div class="events-filter__bg"></div>
+<div class="events-filter__arrow"></div>
+<form id="formEvents" action="/events" method="GET">
+ <select name="event" class="events-filter__select font_lang_en" id="city_filter">
+<option value="">Select town</option>
+<option value="2">Presentation</option>
+<option value="6" class="events-filter__item">
+start_training</option>
+</select>
+<input type="hidden" name="_csrf" value="XsZDbgj9B_ErxGYgj4RsGFIXkyBD02WI2EJ0M9vbLRcWnyEtbrVfvVmdKnbLvAV_ZVjVbwe4LO2POkUF7rR-SA==" />
+</form>
+</div>
+</div>
+</div>
+<div class="mobile-country">
+<div class="mobile-country__map"></div>
+<div class="mobile-country__list">
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/belarus-flag.png" alt="" data-name="belarus">
+<p class="flag-name mobile-belarus">Belarus</p>
+<p class="flag-count count-belarus">7 branches</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/russia-flag.png" alt="" data-name="russia">
+<p class="flag-name mobile-russia">Russia</p>
+<p class="flag-count count-russia">18 branches</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/kazakhstan-flag.png" alt="" data-name="kazakhstan">
+<p class="flag-name mobile-kazakhstan">Kazakhstan</p>
+<p class="flag-count count-kazakhstan">3 branches</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/azerbaijan-flag.png" alt="" data-name="azerbaijan">
+<p class="flag-name mobile-azerbaijan">Azerbaijan</p>
+<p class="flag-count count-azerbaijan">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/georgia-flag.png" alt="" data-name="georgia">
+<p class="flag-name mobile-georgia">Georgia</p>
+<p class="flag-count count-georgia">2 branches</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/uzbekistan-flag.png" alt="" data-name="uzbekistan">
+<p class="flag-name mobile-uzbekistan">Uzbekistan</p>
+<p class="flag-count count-uzbekistan">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/moldova-flag.png" alt="" data-name="moldova">
+<p class="flag-name mobile-moldova">Moldova</p>
+<p class="flag-count count-moldova">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/mexico-flag.png" alt="" data-name="mexico">
+<p class="flag-name mobile-mexico">Mexico</p>
+<p class="flag-count count-mexico">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/romania-flag.png" alt="" data-name="romania">
+<p class="flag-name mobile-romania">Romania</p>
+<p class="flag-count count-romania">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/slovakia-flag.png" alt="" data-name="slovakia">
+<p class="flag-name mobile-slovakia">Slovakia</p>
+<p class="flag-count count-slovakia">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/bulgaria-flag.png" alt="" data-name="bulgaria">
+<p class="flag-name mobile-bulgaria">Bulgaria</p>
+<p class="flag-count count-bulgaria">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/poland-flag.png" alt="" data-name="poland">
+<p class="flag-name mobile-poland">Poland</p>
+<p class="flag-count count-poland">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/czech-flag.png" alt="" data-name="czech">
+<p class="flag-name mobile-czech">Czech</p>
+<p class="flag-count count-czech">2 branches</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/cambodia-flag.png" alt="" data-name="cambodia">
+<p class="flag-name mobile-cambodia">Cambodia</p>
+<p class="flag-count count-cambodia">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/brasil-flag.png" alt="" data-name="brasil">
+<p class="flag-name mobile-brasil">Brazil</p>
+<p class="flag-count count-brasil">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/switzerland-flag.png" alt="" data-name="switzerland">
+<p class="flag-name mobile-switzerland">Switzerland</p>
+<p class="flag-count count-switzerland">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/usa-flag.png" alt="" data-name="usa">
+<p class="flag-name mobile-usa">USA</p>
+<p class="flag-count count-usa">1 branch</p>
+</div>
+<div class="mobile-country__list-item">
+<img src="/dist/images/HUB/countries_map/flags/ukraine-flag.png" alt="" data-name="ukraine">
+<p class="flag-name mobile-ukraine">Ukraine</p>
+<p class="flag-count count-ukraine">29 branches</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="footer ">
+<div class="footer__copyright">
+<div class="row-content">
+<p class="footer__copyright-text center">&copy; 1999-2020 STEP IT Academy</p>
+</div>
+</div>
+</footer>
+<script src="/dist/js/country.js?v=1600172857"></script>
+<script src="/dist/js/common.js?v=1600172857"></script>
+<script src="/dist/js/main.js?v=1600172857"></script>
+<script src="/dist/js/maps.js?v=1600172857"></script></body>
+</html>

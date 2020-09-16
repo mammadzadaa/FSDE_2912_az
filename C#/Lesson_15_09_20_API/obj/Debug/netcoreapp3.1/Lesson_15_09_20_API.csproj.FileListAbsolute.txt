@@ -1,0 +1,15 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\bin\Debug\netcoreapp3.1\Lesson_15_09_20_API.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\bin\Debug\netcoreapp3.1\Lesson_15_09_20_API.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\bin\Debug\netcoreapp3.1\Lesson_15_09_20_API.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\bin\Debug\netcoreapp3.1\Lesson_15_09_20_API.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\bin\Debug\netcoreapp3.1\Lesson_15_09_20_API.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\bin\Debug\netcoreapp3.1\Lesson_15_09_20_API.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\obj\Debug\netcoreapp3.1\Lesson_15_09_20_API.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\obj\Debug\netcoreapp3.1\Lesson_15_09_20_API.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\obj\Debug\netcoreapp3.1\Lesson_15_09_20_API.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\obj\Debug\netcoreapp3.1\Lesson_15_09_20_API.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\obj\Debug\netcoreapp3.1\Lesson_15_09_20_API.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\obj\Debug\netcoreapp3.1\Lesson_15_09_20_API.genruntimeconfig.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\obj\Debug\netcoreapp3.1\Lesson_15_09_20_API.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_15_09_20_API\obj\Debug\netcoreapp3.1\Lesson_15_09_20_API.csproj.CopyComplete

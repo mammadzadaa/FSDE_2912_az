@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ELV6FBjpg6xnaOxOOOmbQoQZDdVGAdbbdiUmpYFXi9sxfpSH9AtxxsdmesrIqwxzvcu2tjibmdxdJW6eH7GMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\C#\\Lesson_15_09_20_API\\Lesson_15_09_20_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aqil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
