@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\bin\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\bin\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\bin\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\bin\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\bin\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\bin\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\obj\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\obj\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\obj\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\obj\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\obj\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\obj\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_16_09_20_Delegates\obj\Debug\netcoreapp3.1\Lesson_16_09_20_Delegates.genruntimeconfig.cache
