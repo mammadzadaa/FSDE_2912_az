@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\bin\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\bin\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\bin\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\bin\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\bin\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\bin\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\obj\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\obj\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\obj\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\obj\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\obj\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\obj\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_18_09_20_Collections_Regex\obj\Debug\netcoreapp3.1\Lesson_18_09_20_Collections_Regex.genruntimeconfig.cache

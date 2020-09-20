@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson_18_09_20_Collections_Regex/1.0.0": {
+        "runtime": {
+          "Lesson_18_09_20_Collections_Regex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson_18_09_20_Collections_Regex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
