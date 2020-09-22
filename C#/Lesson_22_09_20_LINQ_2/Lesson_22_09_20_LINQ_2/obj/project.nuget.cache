@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0jAYSnssNVBggkXnQAScMJ9YaHf8bNqRZm0Lalora4bk+umECFoICyqafmt7ApQhiUdIn05TZtodbOoXhgRAIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.mammadzada\\Documents\\Git\\C#\\Lesson_22_09_20_LINQ_2\\Lesson_22_09_20_LINQ_2\\Lesson_22_09_20_LINQ_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.mammadzada\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
