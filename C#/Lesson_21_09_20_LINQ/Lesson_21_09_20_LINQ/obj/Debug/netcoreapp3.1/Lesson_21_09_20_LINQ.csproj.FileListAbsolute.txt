@@ -1,0 +1,17 @@
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.exe
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.deps.json
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.runtimeconfig.json
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.runtimeconfig.dev.json
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.dll
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.pdb
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\obj\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.csprojAssemblyReference.cache
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\obj\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.AssemblyInfoInputs.cache
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\obj\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.AssemblyInfo.cs
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\obj\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.dll
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\obj\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.pdb
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\obj\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.genruntimeconfig.cache
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Data.json
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\obj\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\obj\Debug\netcoreapp3.1\Lesson_21_09_20_LINQ.csproj.CopyComplete
+C:\Users\a.mammadzada\Documents\Git\C#\Lesson_21_09_20_LINQ\Lesson_21_09_20_LINQ\bin\Debug\netcoreapp3.1\Data1.json
