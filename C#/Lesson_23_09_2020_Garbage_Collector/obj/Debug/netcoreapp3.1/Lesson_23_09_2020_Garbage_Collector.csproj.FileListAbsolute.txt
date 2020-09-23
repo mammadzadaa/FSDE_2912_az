@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\bin\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\bin\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\bin\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\bin\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\bin\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\bin\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\obj\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\obj\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\obj\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\obj\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\obj\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\obj\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_23_09_2020_Garbage_Collector\obj\Debug\netcoreapp3.1\Lesson_23_09_2020_Garbage_Collector.genruntimeconfig.cache
