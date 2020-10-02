@@ -1,0 +1,17 @@
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.exe
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.deps.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\MyLIb.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\MyLIb.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\obj\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\obj\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\obj\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\obj\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.csproj.CopyComplete
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\obj\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\obj\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.pdb
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\obj\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.genruntimeconfig.cache
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll
+C:\Qt\Projects\FSDE_2912_az\C#\Lesson_25_09_20_ExampPrep\obj\Debug\netcoreapp3.1\Lesson_25_09_20_ExampPrep.csproj.CoreCompileInputs.cache
