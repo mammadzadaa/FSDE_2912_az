@@ -37,6 +37,8 @@
             this.infoLabel = new System.Windows.Forms.Label();
             this.favoriteLabel = new System.Windows.Forms.Label();
             this.closeButton = new System.Windows.Forms.Button();
+            this.viewPictureBox = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.viewPictureBox)).BeginInit();
             this.SuspendLayout();
             // 
             // nameLabel
@@ -114,7 +116,7 @@
             this.favoriteLabel.AutoSize = true;
             this.favoriteLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.favoriteLabel.ForeColor = System.Drawing.Color.Red;
-            this.favoriteLabel.Location = new System.Drawing.Point(434, 56);
+            this.favoriteLabel.Location = new System.Drawing.Point(373, 51);
             this.favoriteLabel.Name = "favoriteLabel";
             this.favoriteLabel.Size = new System.Drawing.Size(58, 55);
             this.favoriteLabel.TabIndex = 7;
@@ -124,19 +126,29 @@
             // closeButton
             // 
             this.closeButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.closeButton.Location = new System.Drawing.Point(57, 498);
+            this.closeButton.Location = new System.Drawing.Point(166, 475);
             this.closeButton.Name = "closeButton";
-            this.closeButton.Size = new System.Drawing.Size(398, 51);
+            this.closeButton.Size = new System.Drawing.Size(455, 51);
             this.closeButton.TabIndex = 8;
             this.closeButton.Text = "Close";
             this.closeButton.UseVisualStyleBackColor = true;
             this.closeButton.Click += new System.EventHandler(this.closeButton_Click);
             // 
+            // viewPictureBox
+            // 
+            this.viewPictureBox.Location = new System.Drawing.Point(491, 73);
+            this.viewPictureBox.Name = "viewPictureBox";
+            this.viewPictureBox.Size = new System.Drawing.Size(272, 288);
+            this.viewPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.viewPictureBox.TabIndex = 9;
+            this.viewPictureBox.TabStop = false;
+            // 
             // ViewForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(514, 561);
+            this.ClientSize = new System.Drawing.Size(799, 561);
+            this.Controls.Add(this.viewPictureBox);
             this.Controls.Add(this.closeButton);
             this.Controls.Add(this.favoriteLabel);
             this.Controls.Add(this.infoLabel);
@@ -151,6 +163,7 @@
             this.MinimizeBox = false;
             this.Name = "ViewForm";
             this.Text = "ViewForm";
+            ((System.ComponentModel.ISupportInitialize)(this.viewPictureBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -167,5 +180,6 @@
         private System.Windows.Forms.Label infoLabel;
         private System.Windows.Forms.Label favoriteLabel;
         private System.Windows.Forms.Button closeButton;
+        private System.Windows.Forms.PictureBox viewPictureBox;
     }
 }

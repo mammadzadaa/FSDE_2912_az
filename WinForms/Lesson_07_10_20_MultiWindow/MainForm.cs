@@ -3,39 +3,22 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Newtonsoft.Json;
 
 namespace Lesson_07_10_20_MultiWindow
 {
     public partial class MainForm : Form
     {
-        private List<Person> people = new List<Person>();
+        private List<Person> people;
         public MainForm()
         {
             InitializeComponent();
-            people.Add(new Person()
-            {
-                Name = "Aftandil",
-                Surname = "Mammadov",
-                Email = "afti@gmail.com",
-                Number = "(051)5515151",
-                DateOfBirth = new DateTime(1972, 10, 20),
-                Gender = Gender.Male,
-                Favorite = true,
-            });
-            people.Add(new Person()
-            {
-                Name = "Gulnise",
-                Surname = "Novruzova",
-                Email = "guli@yahoo.com",
-                Number = "(055)5115131",
-                DateOfBirth = new DateTime(1992, 9, 12),
-                Gender = Gender.Female,
-                Favorite = false,
-            });
+            people = JsonConvert.DeserializeObject<List<Person>>(File.ReadAllText("data.json"));
             peopleListBox.Items.AddRange(people.ToArray());
         }
 
@@ -51,6 +34,12 @@ namespace Lesson_07_10_20_MultiWindow
         {
             viewButton_Click(sender, e);
         }
+
+        protected override void OnClosing(CancelEventArgs e)
+        {
+            File.WriteAllText("data.json", JsonConvert.SerializeObject(people));
+            base.OnClosing(e);
+        }
         private void addButton_Click(object sender, EventArgs e)
         {
             var addForm = new AddForm();
@@ -59,6 +48,23 @@ namespace Lesson_07_10_20_MultiWindow
             {
                 people.Add(addForm.Person);
                 peopleListBox.Items.Add(addForm.Person);  
+            }
+        }
+
+        private void editButton_Click(object sender, EventArgs e)
+        {
+            if (peopleListBox.SelectedItem is Person person)
+            {
+                var editForm = new AddForm(person);
+                var result = editForm.ShowDialog();
+                if (result == DialogResult.OK)
+                {
+                    var index = peopleListBox.SelectedIndex;
+                    people.RemoveAt(index);
+                    people.Insert(index, editForm.Person);
+                    peopleListBox.Items.RemoveAt(index);
+                    peopleListBox.Items.Insert(index, editForm.Person);                  
+                }
             }
         }
     }

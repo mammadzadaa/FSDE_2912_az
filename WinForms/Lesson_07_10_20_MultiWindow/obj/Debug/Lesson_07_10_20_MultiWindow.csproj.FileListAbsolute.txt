@@ -10,3 +10,6 @@ C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_07_10_20_MultiWindow\obj\Debug\Lesso
 C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_07_10_20_MultiWindow\obj\Debug\Lesson_07_10_20_MultiWindow.MainForm.resources
 C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_07_10_20_MultiWindow\obj\Debug\Lesson_07_10_20_MultiWindow.ViewForm.resources
 C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_07_10_20_MultiWindow\obj\Debug\Lesson_07_10_20_MultiWindow.AddForm.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_07_10_20_MultiWindow\bin\Debug\Newtonsoft.Json.dll
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_07_10_20_MultiWindow\bin\Debug\Newtonsoft.Json.xml
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_07_10_20_MultiWindow\obj\Debug\Lesson_07_10_20_MultiWindow.csproj.CopyComplete

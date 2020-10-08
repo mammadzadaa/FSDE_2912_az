@@ -45,6 +45,10 @@
             this.favoriteCheckBox = new System.Windows.Forms.CheckBox();
             this.addButton = new System.Windows.Forms.Button();
             this.closeButton = new System.Windows.Forms.Button();
+            this.userPictureBox = new System.Windows.Forms.PictureBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.uploadButton = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.userPictureBox)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -209,7 +213,7 @@
             // closeButton
             // 
             this.closeButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.closeButton.Location = new System.Drawing.Point(336, 542);
+            this.closeButton.Location = new System.Drawing.Point(590, 542);
             this.closeButton.Name = "closeButton";
             this.closeButton.Size = new System.Drawing.Size(206, 52);
             this.closeButton.TabIndex = 18;
@@ -217,11 +221,44 @@
             this.closeButton.UseVisualStyleBackColor = true;
             this.closeButton.Click += new System.EventHandler(this.closeButton_Click);
             // 
+            // userPictureBox
+            // 
+            this.userPictureBox.Location = new System.Drawing.Point(523, 91);
+            this.userPictureBox.Name = "userPictureBox";
+            this.userPictureBox.Size = new System.Drawing.Size(273, 271);
+            this.userPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.userPictureBox.TabIndex = 19;
+            this.userPictureBox.TabStop = false;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label7.Location = new System.Drawing.Point(517, 45);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(156, 32);
+            this.label7.TabIndex = 20;
+            this.label7.Text = "Add Photo:";
+            // 
+            // uploadButton
+            // 
+            this.uploadButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.uploadButton.Location = new System.Drawing.Point(523, 386);
+            this.uploadButton.Name = "uploadButton";
+            this.uploadButton.Size = new System.Drawing.Size(273, 51);
+            this.uploadButton.TabIndex = 21;
+            this.uploadButton.Text = "Upload";
+            this.uploadButton.UseVisualStyleBackColor = true;
+            this.uploadButton.Click += new System.EventHandler(this.uploadButton_Click);
+            // 
             // AddForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(554, 619);
+            this.ClientSize = new System.Drawing.Size(824, 619);
+            this.Controls.Add(this.uploadButton);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.userPictureBox);
             this.Controls.Add(this.closeButton);
             this.Controls.Add(this.addButton);
             this.Controls.Add(this.favoriteCheckBox);
@@ -244,6 +281,7 @@
             this.MinimizeBox = false;
             this.Name = "AddForm";
             this.Text = "AddForm";
+            ((System.ComponentModel.ISupportInitialize)(this.userPictureBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -268,5 +306,8 @@
         private System.Windows.Forms.CheckBox favoriteCheckBox;
         private System.Windows.Forms.Button addButton;
         private System.Windows.Forms.Button closeButton;
+        private System.Windows.Forms.PictureBox userPictureBox;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button uploadButton;
     }
 }
