@@ -1,0 +1,10 @@
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\bin\Debug\Lesson_12_10_20_Containers.exe.config
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\bin\Debug\Lesson_12_10_20_Containers.exe
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\bin\Debug\Lesson_12_10_20_Containers.pdb
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\obj\Debug\Lesson_12_10_20_Containers.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\obj\Debug\Lesson_12_10_20_Containers.Form1.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\obj\Debug\Lesson_12_10_20_Containers.Properties.Resources.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\obj\Debug\Lesson_12_10_20_Containers.csproj.GenerateResource.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\obj\Debug\Lesson_12_10_20_Containers.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\obj\Debug\Lesson_12_10_20_Containers.exe
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_12_10_20_Containers\obj\Debug\Lesson_12_10_20_Containers.pdb
