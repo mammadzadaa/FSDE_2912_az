@@ -1,0 +1,11 @@
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\obj\Debug\Lesson_14_10_20_GDI.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\obj\Debug\Lesson_14_10_20_GDI.MainForm.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\obj\Debug\Lesson_14_10_20_GDI.Properties.Resources.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\obj\Debug\Lesson_14_10_20_GDI.csproj.GenerateResource.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\obj\Debug\Lesson_14_10_20_GDI.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\bin\Debug\Lesson_14_10_20_GDI.exe.config
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\bin\Debug\Lesson_14_10_20_GDI.exe
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\bin\Debug\Lesson_14_10_20_GDI.pdb
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\obj\Debug\Lesson_14_10_20_GDI.exe
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\obj\Debug\Lesson_14_10_20_GDI.pdb
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_14_10_20_GDI\obj\Debug\Lesson_14_10_20_GDI.Some.resources
