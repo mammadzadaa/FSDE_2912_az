@@ -1,0 +1,11 @@
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.Properties.Resources.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.View.ToDoListView.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.csproj.GenerateResource.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\bin\Debug\Lesson_19_10_20_MVP.exe.config
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\bin\Debug\Lesson_19_10_20_MVP.exe
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\bin\Debug\Lesson_19_10_20_MVP.pdb
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.exe
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.pdb
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.View.Test.resources
