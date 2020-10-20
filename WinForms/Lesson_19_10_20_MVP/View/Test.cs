@@ -46,5 +46,10 @@ namespace Lesson_19_10_20_MVP.View
                 }
             }
         }
+
+        private void addButton_Click(object sender, EventArgs e)
+        {
+            Add?.Invoke();
+        }
     }
 }

@@ -9,3 +9,7 @@ C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\bin\Debug\Lesson_19_10_
 C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.exe
 C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.pdb
 C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.View.Test.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.View.AddForm.resources
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\bin\Debug\Newtonsoft.Json.dll
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\bin\Debug\Newtonsoft.Json.xml
+C:\Qt\Projects\FSDE_2912_az\WinForms\Lesson_19_10_20_MVP\obj\Debug\Lesson_19_10_20_MVP.csproj.CopyComplete

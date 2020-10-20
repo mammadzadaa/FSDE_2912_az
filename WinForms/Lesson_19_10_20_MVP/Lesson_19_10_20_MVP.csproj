@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -47,9 +50,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\ToDo.cs" />
+    <Compile Include="Presenter\AddTaskPresenter.cs" />
     <Compile Include="Presenter\ToDoListPresenter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\IToDoListRepository.cs" />
+    <Compile Include="Services\ToDoListJsonRepository.cs" />
+    <Compile Include="Services\ToDoListRepository.cs" />
+    <Compile Include="View\AddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AddForm.Designer.cs">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\IAddForm.cs" />
     <Compile Include="View\IToDoListView.cs" />
     <Compile Include="View\Test.cs">
       <SubType>Form</SubType>
@@ -72,12 +86,16 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\AddForm.resx">
+      <DependentUpon>AddForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\Test.resx">
       <DependentUpon>Test.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\ToDoListView.resx">
       <DependentUpon>ToDoListView.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

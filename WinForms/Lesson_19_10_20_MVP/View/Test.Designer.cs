@@ -32,6 +32,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Test));
             this.elementListView = new System.Windows.Forms.ListView();
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+            this.addButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // elementListView
@@ -53,11 +54,23 @@
             this.imageList1.TransparentColor = System.Drawing.Color.Transparent;
             this.imageList1.Images.SetKeyName(0, "element+fire+icon-1320166151963997842.png");
             // 
+            // addButton
+            // 
+            this.addButton.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.addButton.Location = new System.Drawing.Point(0, 386);
+            this.addButton.Name = "addButton";
+            this.addButton.Size = new System.Drawing.Size(800, 64);
+            this.addButton.TabIndex = 1;
+            this.addButton.Text = "Add";
+            this.addButton.UseVisualStyleBackColor = true;
+            this.addButton.Click += new System.EventHandler(this.addButton_Click);
+            // 
             // Test
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.addButton);
             this.Controls.Add(this.elementListView);
             this.Name = "Test";
             this.Text = "Test";
@@ -69,5 +82,6 @@
 
         private System.Windows.Forms.ListView elementListView;
         private System.Windows.Forms.ImageList imageList1;
+        private System.Windows.Forms.Button addButton;
     }
 }
