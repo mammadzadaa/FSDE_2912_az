@@ -1,0 +1,11 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\bin\Debug\Singletone.exe.config
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\bin\Debug\Singletone.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\bin\Debug\Singletone.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\obj\Debug\Singletone.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\obj\Debug\Singletone.Form1.resources
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\obj\Debug\Singletone.Properties.Resources.resources
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\obj\Debug\Singletone.csproj.GenerateResource.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\obj\Debug\Singletone.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\obj\Debug\Singletone.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\obj\Debug\Singletone.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Singletone\obj\Debug\Singletone.Form2.resources
