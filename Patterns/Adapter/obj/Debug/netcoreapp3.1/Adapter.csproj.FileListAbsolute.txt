@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache

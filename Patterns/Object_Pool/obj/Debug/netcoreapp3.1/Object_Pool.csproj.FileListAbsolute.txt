@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\bin\Debug\netcoreapp3.1\Object_Pool.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\bin\Debug\netcoreapp3.1\Object_Pool.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\bin\Debug\netcoreapp3.1\Object_Pool.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\bin\Debug\netcoreapp3.1\Object_Pool.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\bin\Debug\netcoreapp3.1\Object_Pool.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\bin\Debug\netcoreapp3.1\Object_Pool.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\obj\Debug\netcoreapp3.1\Object_Pool.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\obj\Debug\netcoreapp3.1\Object_Pool.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\obj\Debug\netcoreapp3.1\Object_Pool.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\obj\Debug\netcoreapp3.1\Object_Pool.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\obj\Debug\netcoreapp3.1\Object_Pool.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\obj\Debug\netcoreapp3.1\Object_Pool.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Object_Pool\obj\Debug\netcoreapp3.1\Object_Pool.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\bin\Debug\netcoreapp3.1\Factory_Method.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Factory_Method\obj\Debug\netcoreapp3.1\Factory_Method.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

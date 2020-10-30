@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
