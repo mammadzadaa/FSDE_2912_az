@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache

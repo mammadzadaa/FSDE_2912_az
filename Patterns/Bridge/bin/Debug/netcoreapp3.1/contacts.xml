@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfContact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contact>
+    <Name>Aftandil</Name>
+    <Number>+99455555555</Number>
+  </Contact>
+  <Contact>
+    <Name>Israfil</Name>
+    <Number>+99455325545</Number>
+  </Contact>
+  <Contact>
+    <Name>Qudret</Name>
+    <Number>+99454340000</Number>
+  </Contact>
+</ArrayOfContact>
