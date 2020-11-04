@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache
