@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache
