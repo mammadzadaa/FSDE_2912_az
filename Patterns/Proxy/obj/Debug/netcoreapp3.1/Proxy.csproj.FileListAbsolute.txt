@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Proxy\obj\Debug\netcoreapp3.1\Proxy.genruntimeconfig.cache

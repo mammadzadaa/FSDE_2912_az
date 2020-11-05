@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chain of Responsibility/1.0.0": {
+        "runtime": {
+          "Chain of Responsibility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chain of Responsibility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\bin\Debug\netcoreapp3.1\Chain of Responsibility.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\bin\Debug\netcoreapp3.1\Chain of Responsibility.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\bin\Debug\netcoreapp3.1\Chain of Responsibility.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\bin\Debug\netcoreapp3.1\Chain of Responsibility.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\bin\Debug\netcoreapp3.1\Chain of Responsibility.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\bin\Debug\netcoreapp3.1\Chain of Responsibility.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\obj\Debug\netcoreapp3.1\Chain of Responsibility.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\obj\Debug\netcoreapp3.1\Chain of Responsibility.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\obj\Debug\netcoreapp3.1\Chain of Responsibility.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\obj\Debug\netcoreapp3.1\Chain of Responsibility.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\obj\Debug\netcoreapp3.1\Chain of Responsibility.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\obj\Debug\netcoreapp3.1\Chain of Responsibility.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Chain of Responsibility\obj\Debug\netcoreapp3.1\Chain of Responsibility.genruntimeconfig.cache
