@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache

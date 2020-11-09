@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\obj\Debug\netcoreapp3.1\Memento.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache
