@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache

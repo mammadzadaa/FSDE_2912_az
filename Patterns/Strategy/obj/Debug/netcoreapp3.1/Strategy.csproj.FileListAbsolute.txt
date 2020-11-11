@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Strategy\obj\Debug\netcoreapp3.1\Strategy.genruntimeconfig.cache
