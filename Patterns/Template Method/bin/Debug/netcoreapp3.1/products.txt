@@ -1,0 +1,3 @@
+Apple: 5
+Peach: 4
+Banana: 3

@@ -1,0 +1,13 @@
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\bin\Debug\netcoreapp3.1\Template Method.exe
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\bin\Debug\netcoreapp3.1\Template Method.deps.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\bin\Debug\netcoreapp3.1\Template Method.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\bin\Debug\netcoreapp3.1\Template Method.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\bin\Debug\netcoreapp3.1\Template Method.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\bin\Debug\netcoreapp3.1\Template Method.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\obj\Debug\netcoreapp3.1\Template Method.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\obj\Debug\netcoreapp3.1\Template Method.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\obj\Debug\netcoreapp3.1\Template Method.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\obj\Debug\netcoreapp3.1\Template Method.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\obj\Debug\netcoreapp3.1\Template Method.dll
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\obj\Debug\netcoreapp3.1\Template Method.pdb
+C:\Qt\Projects\FSDE_2912_az\Patterns\Template Method\obj\Debug\netcoreapp3.1\Template Method.genruntimeconfig.cache
