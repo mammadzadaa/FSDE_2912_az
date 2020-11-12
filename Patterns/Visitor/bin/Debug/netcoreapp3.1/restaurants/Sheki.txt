@@ -1,0 +1,4 @@
+Restaurant
+Name: Sheki
+Coordinates: 43.25, 45.34
+Cuisine: Traditional

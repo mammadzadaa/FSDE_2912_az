@@ -1,0 +1,4 @@
+Bus Stop
+Name: 28 May
+Coordinates: 41.22, 43.78
+Bus Numbers: 1 2 14 
