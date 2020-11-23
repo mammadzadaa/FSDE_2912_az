@@ -1,0 +1,127 @@
+﻿<Window x:Class="Intro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Intro"
+        mc:Ignorable="d"
+    Title="Intro App" Height="450" Width="600">
+
+    <Grid Margin="2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Button Margin="0.5" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="2">1</Button>
+        <Button Margin="0.5" Grid.Column="2" Grid.Row="0" Grid.RowSpan="2">3</Button>
+        <Button Margin="0.5" Grid.Column="0" Grid.Row="2">7</Button>
+        <Button Margin="0.5" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="2">8</Button>
+    </Grid>
+
+
+</Window>
+    
+    <!--
+            Containers:
+    
+    StackPanel:
+    
+    <StackPanel Orientation="Horizontal" Margin="20" >
+        <Button Width="100">One</Button>
+        <Button>Two</Button>
+        <Button>Threeeeee</Button>
+        <Button>Four</Button>
+    </StackPanel>
+    
+    WrapPanel:
+    
+    <WrapPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center"> 
+        <Button>One</Button>
+        <Button>Two</Button>
+        <Button>Three</Button>
+        <Button>One</Button>
+        <Button>Two</Button>
+        <Button>Three</Button>
+        <Button>One</Button>
+        <Button>Two</Button>
+        <Button>Three</Button>
+        <Button></Button>
+    </WrapPanel>
+    
+    DockPanel:
+    
+    <DockPanel LastChildFill="False" Margin="20">
+        <Button DockPanel.Dock="Top">One</Button>
+        <Button DockPanel.Dock="Bottom">Two</Button>
+        <Button Background="Azure" BorderBrush="Beige" BorderThickness ="10" Margin="10" Padding="10" >Three</Button>
+    </DockPanel>
+    
+    Canvas:
+    
+    <Canvas>
+        <Button Canvas.Left="399" Canvas.Top="112">One</Button>
+        <Button Canvas.Left="117" Canvas.Top="197">Two</Button>
+        <Button Canvas.Left="206" Canvas.Top="102">Three</Button>
+    </Canvas>
+    
+    UniformGrid:
+    
+        <UniformGrid Rows="3" Columns="3">
+        
+        <Button Margin="2">1</Button>
+        <Button Margin="2">2</Button>
+        <Button Margin="2">3</Button>
+        <Button Margin="2">4</Button>
+        <Button Margin="2">5</Button>
+        <Button Margin="2">6</Button>
+        <Button Margin="2">7</Button>
+        <Button Margin="2">8</Button>
+    </UniformGrid>
+    
+    Grid:
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Button Margin="1" Grid.Column="0">1</Button>
+        <Button Margin="1" Grid.Column="1">2</Button>
+        <Button Margin="1" Grid.Column="2">3</Button>
+        <Button Margin="1" Grid.Row="1">4</Button>
+        <Button Margin="1" Grid.Row="1" Grid.Column="1">5</Button>
+    </Grid>
+    
+    -->
+    
+    <!--Comment-->
+    
+    <!--
+    
+    <Button Attributes ="Value"> Content </Button>  - element
+    <Button>                                        - opening tag
+    </Button>                                       - closing tag
+    <Button/>                                       - auto-closing tag
+    
+    -->
+
+    <!--<Button>
+        <Button>
+            <Button>Click Me</Button>
+        </Button>
+    </Button>-->
+    
+    <!--<Button Background="#FFED0D47">Click Me</Button>-->
