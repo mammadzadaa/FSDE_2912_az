@@ -1,0 +1,127 @@
+﻿<Window x:Class="Controls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Controls"
+        xmlns:xd="http://schemas.xceed.com/wpf/xaml/toolkit"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="400">
+
+
+    <StackPanel>
+        <xd:Calculator/>
+        <xd:ColorPicker/>
+        <xd:ShortUpDown></xd:ShortUpDown>
+        <xd:WatermarkTextBox Watermark="Your name here"/>
+        <xd:Magnifier/>
+    </StackPanel>
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <DockPanel>
+            <TextBox x:Name="textBox" Width="250"></TextBox>
+            <Button Click="addButton_Click" x:Name="addButton">Add</Button>
+        </DockPanel>
+        <ComboBox DisplayMemberPath="Name" x:Name="comboBox" Grid.Row="1"/>
+        <ListBox DisplayMemberPath="PhoneNumber" x:Name="listBox" Grid.Row="2"/>
+        --><!--<MediaElement Grid.Row="3" LoadedBehavior="Play"  Volume="0" Source="Images/Video.mp4" />--><!--</Grid>-->
+
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ComboBox SelectedIndex="0">
+            <ComboBoxItem Selector.IsSelected="True">One</ComboBoxItem>
+            <ComboBoxItem>
+                <Button>Click Me</Button></ComboBoxItem>
+            <ComboBoxItem>
+                <DockPanel>
+                    <Label>Cat</Label>   
+                    <Image Height="100" Width="100" Source="Images/Cat.png" Stretch="Fill" />
+                </DockPanel>
+            </ComboBoxItem>
+        </ComboBox>
+        <ListBox Grid.Row="1">
+            <ListBoxItem>
+                One
+            </ListBoxItem>
+            <ListBoxItem>
+                <Button>Clickable</Button>
+            </ListBoxItem>
+            <ListBoxItem>
+                <DockPanel>
+                    <Label>Cat</Label>
+                    <Image Height="100" Width="100" Source="Images/Cat.png" Stretch="Fill" />
+                </DockPanel>
+            </ListBoxItem>
+        </ListBox>
+        
+    </Grid>-->    
+    <!--<ScrollViewer VerticalScrollBarVisibility="Auto">
+    <StackPanel>
+        <TextBox x:Name="textBox"/>
+        <Button Click="Button_Click" FontSize="20" Content="Button"/>
+        <TextBlock x:Name="textBlock"/>
+        <Button Click="Button_Click_1">Click Me</Button>
+        <Label>Input password:</Label>        
+        <PasswordBox PasswordChar="*" x:Name ="passwordBox"/>
+        -->
+    <!--<TextBlock Foreground="Green" TextWrapping="Wrap">
+          
+            <LineBreak/>
+           <Run Foreground="Red" FontSize="16">
+            Prezident İlham Əliyevin müraciəti
+           </Run>   
+
+            <LineBreak/>
+            <LineBreak/>
+            -Əziz həmvətənlilər.
+            <LineBreak/>
+            Bir aya yaxındır ki,
+            ikinci Qarabağ müharibəsi davam edir. 
+            Bu müharibə xalqımız üçün Vətən müharibəsidir. 
+            Biz Vətən torpaqlarını işğalçılardan azad edirik. 
+            Bu müddət ərzində Şanlı Azərbaycan Ordusu bir çox
+            yaşayış məntəqələrini düşməndən azad edibdir. 
+        </TextBlock>-->
+    <!--
+        <CheckBox>Student</CheckBox>
+        <CheckBox IsChecked="{x:Null}">Have driving licence</CheckBox>
+
+        <GroupBox Margin="10">
+            <GroupBox.Header>First</GroupBox.Header>
+            <StackPanel>
+                <RadioButton>Male</RadioButton>
+                <RadioButton>Female</RadioButton>
+                <RadioButton>Other</RadioButton>
+            </StackPanel>
+        </GroupBox>
+  
+        <RadioButton GroupName="S">Student</RadioButton>
+        <RadioButton GroupName="S">Teacher</RadioButton>
+        <RadioButton GroupName="S">Staff</RadioButton>
+        <ProgressBar Minimum="0" Maximum="20" Height="20" Value="13"/>
+        <ToggleButton Height="20">button</ToggleButton>
+        <Slider Value="30" Minimum="0" Maximum="50"></Slider>
+        <Image Source="Images/Cat.png" StretchDirection="Both" Stretch="Fill"/>
+    </StackPanel>
+    </ScrollViewer>-->
+    <!--<Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button>Click Me</Button>
+        <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Center"></GridSplitter>
+        <Label Grid.Column="2">Hey there</Label>
+    </Grid>-->
+</Window>

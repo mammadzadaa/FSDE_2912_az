@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jv7TmBimP+XYS8oYObI3Jnbe/rnIvlR89ll/ImfWl2Sotp3gT2yFDIgF3IxMG2GinSbV7srSEV+yDbGO4sKFMw==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\WPF\\Controls\\Controls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aqil\\.nuget\\packages\\extended.wpf.toolkit\\4.0.1\\extended.wpf.toolkit.4.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Extended.Wpf.Toolkit 4.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Extended.Wpf.Toolkit",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
