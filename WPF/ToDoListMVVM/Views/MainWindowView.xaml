@@ -1,0 +1,38 @@
+﻿<Window x:Class="ToDoListMVVM.Views.MainWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ToDoListMVVM.Views"
+        mc:Ignorable="d"
+        Title="MainWindowView" Height="450" Width="500" FontSize="20">
+    <Window.Resources>
+        <ResourceDictionary Source="MainWindowDictionary.xaml"/>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="3">
+            <Label Margin="3">Task Name:</Label>
+            <TextBox Text="{Binding TaskName}" Margin="3"/>
+            <Label Margin="3">Task Description:</Label>
+            <TextBox Text="{Binding TaskDescription}" Margin="3" TextWrapping="Wrap" Height="100"/>
+            <Label Margin="3" Content="Deadline: "/>
+            <DatePicker SelectedDate="{Binding TaskDeadline}" Margin="3"/>
+            <CheckBox IsChecked="{Binding TaskIsDone}" Margin="3" VerticalContentAlignment="Center">Is Done</CheckBox>
+        </StackPanel>
+            <Button Command="{Binding AddTaskCommand}" Grid.Row="1" Margin="3">Add</Button>
+            <Button Command="{Binding RemoveTaskCommand}" Grid.Row="1" Grid.Column="1" Margin="3">Remove</Button>
+        <ListBox SelectedItem="{Binding SelectedItem , Mode=OneWayToSource}"
+                 ItemTemplate="{StaticResource taskListTemplate}"
+                 ItemsSource="{Binding MyTasks}" Margin="3" Grid.Column="1">
+        </ListBox>
+    </Grid>
+</Window>
