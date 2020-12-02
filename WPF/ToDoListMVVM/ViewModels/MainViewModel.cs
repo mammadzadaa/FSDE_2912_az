@@ -4,6 +4,7 @@ using System.Collections.ObjectModel;
 using System.Text;
 using System.Windows;
 using System.Windows.Input;
+using ToDoListMVVM.Commands;
 using ToDoListMVVM.Models;
 
 namespace ToDoListMVVM.ViewModels
@@ -17,14 +18,26 @@ namespace ToDoListMVVM.ViewModels
         private DateTime taskDeadline = DateTime.Now;
         private CommandBase addTaskCommand;
 
-        public string TaskName { get => taskName; set => OnChanged(out taskName, value); }
+        public string TaskName 
+        { get => taskName;
+            set
+            { 
+                OnChanged(out taskName, value);
+                AddTaskCommand.RaiseCanExecuteChanged();
+            } 
+        }
         public string TaskDescription { get => taskDescription; set => OnChanged(out taskDescription, value); }
         public bool TaskIsDone { get => taskIsDone; set => OnChanged(out taskIsDone, value); }
         public DateTime TaskDeadline { get => taskDeadline; set => OnChanged(out taskDeadline, value); }
         public ObservableCollection<MyTask> MyTasks { get => myTasks; set => OnChanged(out myTasks, value); }
         public MyTask SelectedItem { get; set; }
 
-        public CommandBase AddTaskCommand => addTaskCommand ?? (addTaskCommand = new CommandBase(x => AddTask()));
+        public CommandBase AddTaskCommand => addTaskCommand ?? (addTaskCommand = new CommandBase(x =>
+        {
+            AddTask();
+            MessageBox.Show(x as string);
+        },
+        () => !string.IsNullOrWhiteSpace(TaskName)));
        
         //{
         //    get
@@ -76,27 +89,6 @@ namespace ToDoListMVVM.ViewModels
             TaskIsDone = false;
         }
     }
-
-
-    public class CommandBase : ICommand
-    {
-        private Action<object> action;
-        
-        public CommandBase(Action<object> action)
-        {
-            this.action = action;
-        }
-
-        public void Execute(object parameter)
-        {
-            action?.Invoke(parameter);
-        }
-
-        public event EventHandler CanExecuteChanged;
-
-        public bool CanExecute(object parameter) => true;
-    }
-
 
 
     //public class AddTaskCommand : ICommand

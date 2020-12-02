@@ -21,14 +21,14 @@
         </Grid.RowDefinitions>
         <StackPanel Margin="3">
             <Label Margin="3">Task Name:</Label>
-            <TextBox Text="{Binding TaskName}" Margin="3"/>
+            <TextBox Text="{Binding TaskName, UpdateSourceTrigger=PropertyChanged}" Margin="3"/>
             <Label Margin="3">Task Description:</Label>
             <TextBox Text="{Binding TaskDescription}" Margin="3" TextWrapping="Wrap" Height="100"/>
             <Label Margin="3" Content="Deadline: "/>
             <DatePicker SelectedDate="{Binding TaskDeadline}" Margin="3"/>
             <CheckBox IsChecked="{Binding TaskIsDone}" Margin="3" VerticalContentAlignment="Center">Is Done</CheckBox>
         </StackPanel>
-            <Button Command="{Binding AddTaskCommand}" Grid.Row="1" Margin="3">Add</Button>
+            <Button Command="{Binding AddTaskCommand}" CommandParameter="Success" Grid.Row="1" Margin="3">Add</Button>
             <Button Command="{Binding RemoveTaskCommand}" Grid.Row="1" Grid.Column="1" Margin="3">Remove</Button>
         <ListBox SelectedItem="{Binding SelectedItem , Mode=OneWayToSource}"
                  ItemTemplate="{StaticResource taskListTemplate}"
