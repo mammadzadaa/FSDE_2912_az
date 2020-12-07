@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T+wfG5H8kL4CFcCgx/PGHMYvzLlwzchk86PVXH4/x+u0rrGOsp6hioaH7gWUa40vwgpUVZDuYgUfg9+vxnvICA==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\WPF\\MVVM_Tools\\MVVM_Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

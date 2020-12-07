@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using MVVM_Tools.Commands;
+using MVVM_Tools.ViewModels;
+using System;
 using System.Collections.ObjectModel;
-using System.Text;
-using System.Windows;
-using System.Windows.Input;
-using ToDoListMVVM.Commands;
 using ToDoListMVVM.Models;
 
 namespace ToDoListMVVM.ViewModels
@@ -17,28 +14,33 @@ namespace ToDoListMVVM.ViewModels
         private bool taskIsDone;
         private DateTime taskDeadline = DateTime.Now;
         private CommandBase addTaskCommand;
+        private CommandBase<MyTask> removeTaskItemCommand;
 
-        public string TaskName 
-        { get => taskName;
+        public string TaskName
+        {
+            get => taskName;
             set
-            { 
+            {
                 OnChanged(out taskName, value);
                 AddTaskCommand.RaiseCanExecuteChanged();
-            } 
+            }
         }
         public string TaskDescription { get => taskDescription; set => OnChanged(out taskDescription, value); }
         public bool TaskIsDone { get => taskIsDone; set => OnChanged(out taskIsDone, value); }
         public DateTime TaskDeadline { get => taskDeadline; set => OnChanged(out taskDeadline, value); }
         public ObservableCollection<MyTask> MyTasks { get => myTasks; set => OnChanged(out myTasks, value); }
         public MyTask SelectedItem { get; set; }
+        public CommandBase<MyTask> RemoveTaskItemCommand =>
+                                   removeTaskItemCommand ?? (removeTaskItemCommand = new CommandBase<MyTask>((x) => MyTasks.Remove(x)));
+        
+        
 
-        public CommandBase AddTaskCommand => addTaskCommand ?? (addTaskCommand = new CommandBase(x =>
+        public CommandBase AddTaskCommand => addTaskCommand ?? (addTaskCommand = new CommandBase(() =>
         {
             AddTask();
-            MessageBox.Show(x as string);
         },
         () => !string.IsNullOrWhiteSpace(TaskName)));
-       
+
         //{
         //    get
         //    {
@@ -55,8 +57,8 @@ namespace ToDoListMVVM.ViewModels
 
         public MainViewModel()
         {
-           
-            RemoveTaskCommand = new CommandBase(x =>
+
+            RemoveTaskCommand = new CommandBase(() =>
             {
                 RemoveTask();
             });

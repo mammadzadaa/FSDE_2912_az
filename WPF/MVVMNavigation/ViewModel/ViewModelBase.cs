@@ -4,7 +4,7 @@ using System.ComponentModel;
 using System.Runtime.CompilerServices;
 using System.Text;
 
-namespace ToDoListMVVM.ViewModels
+namespace MVVMNavigation.ViewModel
 {
     public abstract class ViewModelBase : INotifyPropertyChanged
     {

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ToDoListMVVM/1.0.0": {
+        "dependencies": {
+          "MVVM_Tools": "1.0.0"
+        },
         "runtime": {
           "ToDoListMVVM.dll": {}
+        }
+      },
+      "MVVM_Tools/1.0.0": {
+        "runtime": {
+          "MVVM_Tools.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ToDoListMVVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVVM_Tools/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

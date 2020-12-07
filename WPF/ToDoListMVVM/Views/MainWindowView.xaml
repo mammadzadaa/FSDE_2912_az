@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ToDoListMVVM.Views"
         mc:Ignorable="d"
+        x:Name="mainWindow"
         Title="MainWindowView" Height="450" Width="500" FontSize="20">
     <Window.Resources>
         <ResourceDictionary Source="MainWindowDictionary.xaml"/>

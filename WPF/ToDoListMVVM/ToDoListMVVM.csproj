@@ -6,4 +6,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MVVM_Tools\MVVM_Tools.csproj" />
+  </ItemGroup>
+
 </Project>
