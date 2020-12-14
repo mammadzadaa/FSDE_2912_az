@@ -1,0 +1,4 @@
+C:\Qt\Projects\FSDE_2912_az\WPF\IoC\bin\Debug\netcoreapp3.1\IoC.exe
+C:\Qt\Projects\FSDE_2912_az\WPF\IoC\obj\Debug\netcoreapp3.1\IoC.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\IoC\obj\Debug\netcoreapp3.1\IoC.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\IoC\obj\Debug\netcoreapp3.1\IoC.AssemblyInfo.cs

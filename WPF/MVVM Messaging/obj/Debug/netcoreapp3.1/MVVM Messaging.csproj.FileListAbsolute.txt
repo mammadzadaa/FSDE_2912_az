@@ -1,0 +1,28 @@
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.exe
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.deps.json
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.pdb
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\AddForecastUC.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\ForecastListUC.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\InfoForecastUC.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging_MarkupCompile.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging_MarkupCompile.lref
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\AddForecastUC.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\ForecastListUC.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\InfoForecastUC.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.g.resources
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.pdb
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.genruntimeconfig.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.csproj.CopyComplete
