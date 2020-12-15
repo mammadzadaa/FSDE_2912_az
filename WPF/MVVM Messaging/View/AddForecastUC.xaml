@@ -5,16 +5,42 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:MVVM_Messaging.View"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
-    <DockPanel>
-        <Grid DockPanel.Dock="Bottom">
+             FontSize="24"
+             d:Background="White"
+             d:DesignHeight="450" d:DesignWidth="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+       
+           
+        <StackPanel  Margin="10"  Grid.Row="0" >
+            <RadioButton Name="ByCityNameRB"  GroupName="AddView" IsChecked="True" Margin="0,10" VerticalContentAlignment="Center">
+               Searching  By City Name
+            </RadioButton>
+            <TextBlock>City Name : </TextBlock>
+            <TextBox   IsEnabled="{Binding IsChecked, ElementName=ByCityNameRB}" Text="{Binding CityName}"></TextBox>
+        </StackPanel>
+        <StackPanel Margin="10" Grid.Row="1">
+            <RadioButton Name="ByLocationRB" GroupName="AddView" Margin="0,0,0,10" VerticalContentAlignment="Center">
+                Searching By City Location
+            </RadioButton>
+            <TextBlock>Latitude :</TextBlock>
+            <TextBox IsEnabled="{Binding IsChecked, ElementName=ByLocationRB}"></TextBox>
+            <TextBlock>Longtitude :</TextBlock>
+            <TextBox IsEnabled="{Binding IsChecked, ElementName=ByLocationRB}"></TextBox>
+        </StackPanel>
+        <Grid Grid.Row="2"  DockPanel.Dock="Bottom">
+     
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            <Button>Add</Button>
-            <Button Grid.Column="1">Cancel</Button>
+            <Button Margin="10" Command="{Binding AddBtn}">Add</Button>
+            <Button Margin="10" Grid.Column="1">Cancel</Button>
         </Grid>
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"> Add Page</TextBlock>
-    </DockPanel>
+    </Grid>
 </UserControl>

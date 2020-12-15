@@ -1,4 +1,6 @@
-﻿using MVVM_Messaging.ViewModel;
+﻿using GalaSoft.MvvmLight.Messaging;
+using MVVM_Messaging.Messages;
+using MVVM_Messaging.ViewModel;
 using SimpleInjector;
 using System;
 using System.Collections.Generic;
@@ -26,6 +28,8 @@ namespace MVVM_Messaging
             Container.Register<ForecastListVM>();
             Container.Register<AddForecastVM>();
             Container.Register<InfoForecastVM>();
+            Container.Register<ForecastMessage>();
+
 
             var main = Container.GetInstance<MainWindow>();
             main.Show();

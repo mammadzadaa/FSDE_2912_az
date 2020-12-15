@@ -1,4 +1,6 @@
-﻿using MVVM_Messaging.Messages;
+﻿using GalaSoft.MvvmLight;
+using GalaSoft.MvvmLight.Messaging;
+using MVVM_Messaging.Messages;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -6,22 +8,21 @@ using System.Windows;
 
 namespace MVVM_Messaging.ViewModel
 {
-    class MainVM : BaseVM
+    class MainVM : ViewModelBase
     {
-        private BaseVM currentViewModel;
+        private ViewModelBase currentViewModel;
 
-        public BaseVM CurrentViewModel { get => currentViewModel; set => OnChanged(out currentViewModel, value); }
+        public ViewModelBase CurrentViewModel { get => currentViewModel; set => Set(ref currentViewModel, value); }
 
         public MainVM()
         {
             CurrentViewModel = App.Container.GetInstance<ForecastListVM>();
             var messenger = App.Container.GetInstance<Messenger>();
-            messenger.Subscribe<NavigationMessage>(x =>
+            messenger.Register<NavigationMessage>(this, message =>
             {
-                var message = x as NavigationMessage;
+                //var message = x as NavigationMessage;
                 CurrentViewModel = message.ViewModel;
             });
-  
         }
     }
 }

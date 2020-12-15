@@ -7,15 +7,15 @@
              mc:Ignorable="d" 
              d:Background="White"
              d:DesignHeight="450" d:DesignWidth="400">
-    <DockPanel>
-        <Grid DockPanel.Dock="Bottom">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition/>
-                <ColumnDefinition/>
-            </Grid.ColumnDefinitions>
-            <Button Command="{Binding AddPage}">Add</Button>
-            <Button Grid.Column="1">View</Button>
-        </Grid>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="9*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="5">
+            <Button Command="{Binding AddPage}" Width="250">Add</Button>
+            <Button Width="150">Cancel</Button>
+        </StackPanel>
         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"> Main Page </TextBlock>
-    </DockPanel>
+    </Grid>
 </UserControl>

@@ -26,10 +26,10 @@ namespace MVVM_Messaging
             InitializeComponent();
             DataContext = App.Container.GetInstance<MainVM>();
         }
-        //protected override void OnClosed(EventArgs e)
-        //{
-        //    base.OnClosed(e);
-        //    App.Current.Shutdown();
-        //}
+        protected override void OnClosed(EventArgs e)
+        {
+            base.OnClosed(e);
+            App.Current.Shutdown();
+        }
     }
 }

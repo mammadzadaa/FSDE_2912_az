@@ -20,9 +20,12 @@ C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\Info
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.g.resources
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.AssemblyInfoInputs.cache
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.AssemblyInfo.cs
-C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.csproj.CoreCompileInputs.cache
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.dll
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.pdb
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.genruntimeconfig.cache
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\SimpleInjector.dll
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.csproj.CopyComplete
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.dll.config
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\Microsoft.Maps.MapControl.WPF.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.csproj.CoreCompileInputs.cache
