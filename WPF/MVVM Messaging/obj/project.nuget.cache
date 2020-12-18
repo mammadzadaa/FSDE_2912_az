@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UoU+ARZzSQj5zR03JFjydLKm/0plK7fEsO8D6IRcDW0zjwb43VBg5qKNIeelBbGjkqe8mPs98yAz/JiwAtBPUg==",
+  "dgSpecHash": "5yKwV5vOTQq3jY5O64O/Ho0Pzh8r8wwdr3BubooUA0q/GksyD+qHgf58gsl0CGi7CJIyLO0dIqGVAFogxSqbVA==",
   "success": true,
   "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\WPF\\MVVM Messaging\\MVVM Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aqil\\.nuget\\packages\\microsoft.maps.mapcontrol.wpf\\1.0.0.3\\microsoft.maps.mapcontrol.wpf.1.0.0.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
     "C:\\Users\\Aqil\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
     "C:\\Users\\Aqil\\.nuget\\packages\\simpleinjector\\5.1.0\\simpleinjector.5.1.0.nupkg.sha512",
     "C:\\Users\\Aqil\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",

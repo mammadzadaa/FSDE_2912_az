@@ -29,3 +29,4 @@ C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\GalaSoft.
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.dll.config
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\Microsoft.Maps.MapControl.WPF.dll
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll

@@ -4,18 +4,42 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:MVVM_Messaging.View"
+             xmlns:b="http://schemas.microsoft.com/xaml/behaviors"
              mc:Ignorable="d" 
              d:Background="White"
              d:DesignHeight="450" d:DesignWidth="400">
+    <UserControl.Resources>
+        <DataTemplate x:Key="ForecastData">
+            <DockPanel LastChildFill="False">
+                <TextBlock Margin="10" DockPanel.Dock="Left" Text="{Binding name}"/>
+                <TextBlock Margin="10" DockPanel.Dock="Right" Text="{Binding main.temp}"/>
+            </DockPanel>
+        </DataTemplate>
+    </UserControl.Resources>
     <Grid>
         <Grid.RowDefinitions>
+            <RowDefinition/>
             <RowDefinition Height="9*"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="5">
-            <Button Command="{Binding AddPage}" Width="250">Add</Button>
-            <Button Width="150">Cancel</Button>
-        </StackPanel>
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"> Main Page </TextBlock>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+            <ListBox              
+                SelectedItem="{Binding SelectedForecast}"
+                ItemTemplate="{StaticResource ForecastData}"
+                ItemsSource="{Binding ListOfForecast}"
+                Grid.Row="1" 
+                Grid.ColumnSpan="2">
+            <b:Interaction.Triggers>
+                <b:EventTrigger EventName="MouseDoubleClick">
+                    <b:InvokeCommandAction Command="{Binding ElementDoubleClickCommand}"/>
+                </b:EventTrigger>
+            </b:Interaction.Triggers>
+            </ListBox>
+            <Button Grid.Row="2" Command="{Binding AddPage}">Add</Button>
+            <Button Grid.Column="1" Command="{Binding ViewCommand}" Grid.Row="2">View</Button>
+        <TextBlock Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center"> Main Page </TextBlock>
     </Grid>
 </UserControl>

@@ -6,16 +6,39 @@
              xmlns:local="clr-namespace:MVVM_Messaging.View"
              xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
              mc:Ignorable="d"
-             FontSize="24"
+             FontSize="14"
              d:Background="White"
              d:DesignHeight="450" d:DesignWidth="400">
-    <StackPanel>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
         <Image Source="{Binding Image}" Height="100" Width="100" Stretch="Fill" ></Image>
-        <TextBlock HorizontalAlignment="Center" Foreground="Blue">City Name </TextBlock>
-        <TextBlock HorizontalAlignment="Center" Text="{Binding ThisForecast.name}" > </TextBlock>
-        <TextBlock HorizontalAlignment="Center" Foreground="Blue" >Temperature</TextBlock>
-        <TextBlock HorizontalAlignment="Center" Text="{Binding ThisForecast.main.temp}" ></TextBlock>
-        <m:Map Center="{Binding ThisLocation}" ZoomLevel="10"  CredentialsProvider="ArelkvT2n8K99rcr96g1f1MCoRcsn9JLWH-_IXERj00envdU022utN_b15yZZBiw" Height="200" Width="200"/>
-        <Button Foreground="Blue" VerticalAlignment="Bottom">Back</Button>
-    </StackPanel>
+        <StackPanel Grid.Column="1">
+            <TextBlock HorizontalAlignment="Center" Foreground="Blue">City Name</TextBlock>
+            <TextBlock HorizontalAlignment="Center" Text="{Binding ThisForecast.name}" ></TextBlock>
+            <TextBlock HorizontalAlignment="Center" Foreground="Blue" >Temperature</TextBlock>
+            <TextBlock HorizontalAlignment="Center" Text="{Binding ThisForecast.main.temp}" ></TextBlock>
+        </StackPanel>
+
+        <m:Map Margin="3"
+               Grid.Row="1" 
+               Grid.ColumnSpan="2" 
+               ZoomLevel="1"  
+               CredentialsProvider="ArelkvT2n8K99rcr96g1f1MCoRcsn9JLWH-_IXERj00envdU022utN_b15yZZBiw" 
+               >
+            <m:Pushpin Location="{Binding ThisLocation}"></m:Pushpin>
+        </m:Map>
+        <Button Margin="3" Grid.Row="2"
+                Grid.ColumnSpan="2"
+            Command="{Binding BackCommand}"
+            Foreground="Blue" 
+            VerticalAlignment="Bottom">Back</Button>
+    </Grid>
 </UserControl>

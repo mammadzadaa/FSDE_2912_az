@@ -45,6 +45,10 @@
               "target": "Package",
               "version": "[1.0.0.3, )"
             },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            },
             "MvvmLightLibsStd10": {
               "target": "Package",
               "version": "[5.4.1.1, )"

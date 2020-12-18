@@ -1,4 +1,7 @@
-﻿using System;
+﻿using GalaSoft.MvvmLight.Messaging;
+using MVVM_Messaging.Messages;
+using MVVM_Messaging.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -21,6 +24,23 @@ namespace MVVM_Messaging.View
         public AddForecastUC()
         {
             InitializeComponent();
+        }
+
+        private void MapRightMouseButtonClick(object sender, MouseButtonEventArgs e)
+        {
+            var location = Map.ViewportPointToLocation(e.GetPosition(Map));
+            //if (DataContext is AddForecastVM vm)
+            //{
+            //    vm.Longtitude = location.Longitude.ToString();
+            //    vm.Latitude = location.Latitude.ToString();
+            //}
+
+            var messanger = App.Container.GetInstance<Messenger>();
+            messanger.Send(new LocationMessege()
+            {
+                Longitute = location.Longitude,
+                Latitude = location.Latitude
+            }) ;
         }
     }
 }

@@ -1,5 +1,6 @@
 ﻿using GalaSoft.MvvmLight.Messaging;
 using MVVM_Messaging.Messages;
+using MVVM_Messaging.Services;
 using MVVM_Messaging.ViewModel;
 using SimpleInjector;
 using System;
@@ -24,11 +25,15 @@ namespace MVVM_Messaging
             Container = new Container();
             Container.RegisterSingleton<MainWindow>();
             Container.RegisterSingleton<MainVM>();
-            Container.RegisterSingleton<Messenger>();
-            Container.Register<ForecastListVM>();
+            Container.RegisterSingleton<ForecastListVM>();
             Container.Register<AddForecastVM>();
             Container.Register<InfoForecastVM>();
+
             Container.Register<ForecastMessage>();
+
+            Container.RegisterSingleton<Messenger>();
+            Container.RegisterSingleton<IStorageService, LocalStorage>();
+            Container.RegisterSingleton<IWeatherService, WeatherService>();
 
 
             var main = Container.GetInstance<MainWindow>();
