@@ -24,3 +24,9 @@ C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\Contact
 C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.csproj.CopyComplete
 C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Controls\DashboardTile.g.cs
 C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Controls\DashboardTile.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\AddContactUC.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\StatisticsUC.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\AddContactUC.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\StatisticsUC.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\SimpleInjector.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

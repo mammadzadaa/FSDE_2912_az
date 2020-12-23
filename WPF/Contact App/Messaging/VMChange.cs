@@ -3,9 +3,10 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Contact_App.ViewModel
+namespace Contact_App.Messaging
 {
-    class StatisticsVM: ViewModelBase
+    class VMChange
     {
+        public ViewModelBase ViewModel { get; set; }
     }
 }

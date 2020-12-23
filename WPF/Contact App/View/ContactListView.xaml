@@ -13,28 +13,31 @@
             <RowDefinition Height="0.5*"/>
             <RowDefinition Height="0.5*"/>
             <RowDefinition Height="2*"/>
-            <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <TextBlock Grid.Row="0" FontSize="30" Text="Contact List"/>
-        <TextBox Grid.Row="1" Text="{Binding Text, UpdateSourceTrigger=PropertyChanged}"/>
         <DataGrid Grid.Row="2" ItemsSource="{Binding Contacts}"
                   AutoGenerateColumns="False"
                   CanUserAddRows="False">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Full name" Binding="{Binding FullName}"/>
                 <DataGridTextColumn Header="Phone" Binding="{Binding Phone}"/>
-                <DataGridCheckBoxColumn Header="Is Checked" Binding="{Binding Favorite}"/>
+                <DataGridTextColumn Header="Email" Binding="{Binding Email}"/>
             </DataGrid.Columns>
             <DataGrid.RowDetailsTemplate>
                 <DataTemplate>
-                    <TextBlock FontSize="14" Text="{Binding Position}"/>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding Photo}" Margin="5" Stretch="Fill"/>
+                        <TextBlock Text="{Binding Bio}" Margin="5" FontSize="14" TextWrapping="Wrap" MaxWidth="400"/>
+                    </StackPanel>
                 </DataTemplate>
             </DataGrid.RowDetailsTemplate>
         </DataGrid>
-        <UniformGrid Grid.Row="3" Rows="1">
+        
+        
+        <!--<UniformGrid Grid.Row="3" Rows="1">
             <controls:DashboardTile Height="150" Width="250" Header="{Binding Text}" Value="{Binding Value}" Margin="10"/>
             <controls:DashboardTile Height="150" Width="250" Header="Two" Value="2" Background="Aquamarine" Margin="10"/>
             <controls:DashboardTile Height="150" Width="250" Header="Three" Value="3" Background="LawnGreen" Margin="10"/>
-        </UniformGrid>
+        </UniformGrid>-->
     </Grid>
 </UserControl>

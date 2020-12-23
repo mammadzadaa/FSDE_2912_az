@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\App.xaml
-3-342557799
+5-2068617512
 
-8387776080
-193-1434338370
-Controls\DashboardTile.xaml;MainWindow.xaml;View\ContactListView.xaml;
+16762349425
+195331224627
+Controls\DashboardTile.xaml;MainWindow.xaml;View\AddContactUC.xaml;View\ContactListView.xaml;View\StatisticsUC.xaml;
 
 False
 

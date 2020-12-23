@@ -4,11 +4,16 @@ using System.Text;
 
 namespace Contact_App.Model
 {
-    class Contact
+   
+
+
+    public class Contact
     {
-        public string Name { get; set; }
+        public string FullName { get; set; }
         public string Phone { get; set; }
-        public bool Favorite { get; set; }
-        public string Position { get; set; }
+        public string Email { get; set; }
+        public string Bio { get; set; }
+        public string Photo { get; set; }
     }
+
 }

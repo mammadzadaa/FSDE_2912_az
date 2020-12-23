@@ -13,12 +13,9 @@
         </Grid.RowDefinitions>
         <StackPanel>
             <Label Content="Name:" FontSize="18"/>
-            <TextBox Margin="5" FontSize="18"/>
+            <TextBox Text="{Binding FullName}" Margin="5" FontSize="18"/>
             <Label Content="Phone:" FontSize="18"/>
-            <TextBox Margin="5" FontSize="18"/>
-            <RadioButton Content="Favorite" Margin="5" FontSize="18"/>
-            <Label Content="Position:" FontSize="18"/>
-            <TextBox Margin="5" FontSize="18"/>
+            <TextBox  Margin="5" FontSize="18"/>
         </StackPanel>
         <UniformGrid Rows="1" Grid.Row="1">
             <Button Content="Add" FontSize="16" Margin="5"/>

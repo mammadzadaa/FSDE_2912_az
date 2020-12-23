@@ -1,4 +1,5 @@
 ﻿using Contact_App.ViewModel;
+using GalaSoft.MvvmLight;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,10 +22,11 @@ namespace Contact_App
     /// </summary>
     public partial class MainWindow : Window
     {
+        
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new MainVM();
+            DataContext = App.Container.GetInstance<MainVM>();
         }
     }
 }

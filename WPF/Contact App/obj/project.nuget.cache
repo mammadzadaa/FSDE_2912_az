@@ -1,10 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "tlUc1lERUrZZ7YRvSYpWEOYh2kTnuZTC7/mzKCK6t1DhwZb29t7uiKjSXThDWJ2LWHV3scoIzYwUtBL9xZkh1g==",
+  "dgSpecHash": "sB8PJ7GlGKjgXViw8Z/F0u79zDWeOlNiURDO5DCQTK5nn+Q8vYooGWQ2oPekVjB92wPlKGd4Qsg8zmxx0/BjNw==",
   "success": true,
   "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\WPF\\Contact App\\Contact App.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Aqil\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\simpleinjector\\5.2.0\\simpleinjector.5.2.0.nupkg.sha512",
+    "C:\\Users\\Aqil\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -46,6 +46,14 @@
             "MvvmLightLibsStd10": {
               "target": "Package",
               "version": "[5.4.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.2.0, )"
             }
           },
           "imports": [

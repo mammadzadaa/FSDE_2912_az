@@ -77,7 +77,7 @@ namespace Contact_App.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Contact App;V1.0.0.0;component/controls/dashboardtile.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Contact App;component/controls/dashboardtile.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controls\DashboardTile.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

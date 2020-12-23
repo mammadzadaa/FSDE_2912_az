@@ -10,18 +10,29 @@
         Title="MainWindow" Height="450" Width="800">
     <Window.Resources>
         <DataTemplate DataType="{x:Type vm:ContactListVM}">
-            <v:ContactListView/>
-            
-            
+            <v:ContactListView/>              
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:StatisticsVM}">
+            <v:StatisticsUC/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type vm:AddCOntactsVM}">
+            <v:AddContactUC/>
         </DataTemplate>
     </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="7*"/>
         </Grid.ColumnDefinitions>
-        <ContentControl Grid.Column="1" Content="{Binding CurrectViewModel}"/>
+        <ContentControl Grid.Column="1" Content="{Binding CurrentViewModel}"/>
+        <StackPanel>
+            <Button Command="{Binding ChangeToAdd}" FontSize="25" Content="Add" Margin="5" Height="70"/>
+            <Button Command="{Binding ChangeToContacts}" FontSize="25" Content="Contact" Margin="5" Height="70"/>
+            <Button Command="{Binding ChangeToStatistic}" FontSize="25" Content="Statistics" Margin="5" Height="70"/>
+        </StackPanel>
+            <Button Margin="5" FontSize="30" Content="Open" VerticalAlignment="Bottom" Height="40"/>
     </Grid>
+   
     <!--<DockPanel>
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="File">
