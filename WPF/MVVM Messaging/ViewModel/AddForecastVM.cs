@@ -7,26 +7,33 @@ using MVVM_Messaging.Model;
 using MVVM_Messaging.Services;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
 using System.Text;
 using System.Windows;
 using System.Windows.Input;
 
 namespace MVVM_Messaging.ViewModel
 {
-    class AddForecastVM : ViewModelBase
+    class AddForecastVM : ViewModelBase, IDataErrorInfo
     {
         public AddForecastVM(IWeatherService weatherService, IStorageService storageService, Messenger messenger)
         {
             WeatherService = weatherService;
             Storage = storageService;
             Messenger = messenger;
+
             ThisLocation = new Location();
 
-            messenger.Register<LocationMessege>(this, m =>
+
+                messenger.Register<LocationMessege>(this, m =>
                 {
                     Longtitude = m.Longitute.ToString();
                     Latitude = m.Latitude.ToString();
                 });
+            
+           
         }
 
         public IStorageService Storage { get; set; }
@@ -61,6 +68,8 @@ namespace MVVM_Messaging.ViewModel
 
             }
         }
+
+        [Required]
         public string CityName
         {
             get => cityName;
@@ -121,5 +130,28 @@ namespace MVVM_Messaging.ViewModel
             Messenger.Send(new NavigationMessage() { ViewModel = App.Container.GetInstance<ForecastListVM>() });
         });
 
+        public string Error { get; }
+
+        public string this[string columnName]
+        {
+            get
+            {
+                var validationContext = new ValidationContext(this);
+                var results = new List<ValidationResult>();
+                var isValid = Validator.TryValidateObject(this, validationContext, results, true);
+
+                if (isValid)
+                    return string.Empty;
+
+                var result = results.FirstOrDefault(x => x.MemberNames.Contains(columnName));
+
+                if (result is null)
+                    return string.Empty;
+
+                return result.ErrorMessage;
+            }
+        }
     }
+
+
 }

@@ -46,7 +46,7 @@ namespace MVVM_Messaging {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.8.1.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "5.0.1.0")]
         public static void Main() {
             MVVM_Messaging.App app = new MVVM_Messaging.App();
             app.Run();

@@ -1,0 +1,26 @@
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\Contact App.exe
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\Contact App.deps.json
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\Contact App.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\Contact App.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\Contact App.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\Contact App.pdb
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App_MarkupCompile.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App_MarkupCompile.lref
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.g.resources
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.pdb
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.genruntimeconfig.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\ContactListView.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\GalaSoft.MvvmLight.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\ContactListView.baml
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Contact App.csproj.CopyComplete
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Controls\DashboardTile.g.cs
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\Controls\DashboardTile.baml

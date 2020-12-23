@@ -4,7 +4,6 @@ C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Mess
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.runtimeconfig.dev.json
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.dll
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\bin\Debug\netcoreapp3.1\MVVM Messaging.pdb
-C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MVVM Messaging.csprojAssemblyReference.cache
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\AddForecastUC.g.cs
 C:\Qt\Projects\FSDE_2912_az\WPF\MVVM Messaging\obj\Debug\netcoreapp3.1\View\ForecastListUC.g.cs

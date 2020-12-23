@@ -11,3 +11,5 @@ C:\Qt\Projects\FSDE_2912_az\WPF\Validation\obj\Debug\netcoreapp3.1\Validation.cs
 C:\Qt\Projects\FSDE_2912_az\WPF\Validation\obj\Debug\netcoreapp3.1\Validation.dll
 C:\Qt\Projects\FSDE_2912_az\WPF\Validation\obj\Debug\netcoreapp3.1\Validation.pdb
 C:\Qt\Projects\FSDE_2912_az\WPF\Validation\obj\Debug\netcoreapp3.1\Validation.genruntimeconfig.cache
+C:\Qt\Projects\FSDE_2912_az\WPF\Validation\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\Validation\obj\Debug\netcoreapp3.1\Validation.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tlUc1lERUrZZ7YRvSYpWEOYh2kTnuZTC7/mzKCK6t1DhwZb29t7uiKjSXThDWJ2LWHV3scoIzYwUtBL9xZkh1g==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\WPF\\Contact App\\Contact App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aqil\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

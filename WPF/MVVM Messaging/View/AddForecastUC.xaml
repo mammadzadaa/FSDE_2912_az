@@ -25,7 +25,10 @@
                Searching  By City Name
             </RadioButton>
             <TextBlock>City Name : </TextBlock>
-            <TextBox   IsEnabled="{Binding IsChecked, ElementName=ByCityNameRB}" Text="{Binding CityName,UpdateSourceTrigger=PropertyChanged}"></TextBox>
+            <TextBox x:Name="CityName"
+                     IsEnabled="{Binding IsChecked, ElementName=ByCityNameRB}"
+                     Text="{Binding CityName,UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True,ValidatesOnNotifyDataErrors=True}"></TextBox>
+            <TextBlock Text="{Binding (Validation.Errors)[0].ErrorContent, ElementName=CityName}" FontSize="12" Foreground="Red"/>
         </StackPanel>
         <StackPanel Margin="10" Grid.Row="1">
             <RadioButton Name="ByLocationRB" GroupName="AddView" Margin="0,0,0,10" VerticalContentAlignment="Center">

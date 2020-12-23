@@ -23,7 +23,7 @@ namespace MVVM_Messaging.ViewModel
         {
             Messenger = messenger;
 
-            Messenger.Register<ForecastMessage>(this, message =>
+            Messenger?.Register<ForecastMessage>(this, message =>
             {
                 ThisForecast = message.CurrentForecast;
                 Image = $"http://openweathermap.org/img/wn/{ThisForecast.weather[0].icon}.png";
@@ -34,5 +34,18 @@ namespace MVVM_Messaging.ViewModel
         public RelayCommand BackCommand => backCommand ??= new RelayCommand(()=> {
             Messenger.Send(new NavigationMessage() { ViewModel = App.Container.GetInstance<ForecastListVM>() });
         });
+    }
+
+    class TempInfoForecastVM : InfoForecastVM
+    {
+        public TempInfoForecastVM() : base(null)
+        {
+            ThisForecast = new Forecast()
+            {
+                name = "Baku",
+                main = new Main() { temp = 23 },
+                coord = new Coord() { lat = 41, lon = 56 },
+            };
+        }
     }
 }
