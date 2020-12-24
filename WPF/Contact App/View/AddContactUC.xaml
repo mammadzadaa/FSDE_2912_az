@@ -13,13 +13,19 @@
         </Grid.RowDefinitions>
         <StackPanel>
             <Label Content="Name:" FontSize="18"/>
-            <TextBox Text="{Binding FullName}" Margin="5" FontSize="18"/>
+            <TextBox Text="{Binding FullName,UpdateSourceTrigger=PropertyChanged,ValidatesOnDataErrors=True,ValidatesOnNotifyDataErrors=True}" Margin="5" FontSize="18"/>
             <Label Content="Phone:" FontSize="18"/>
-            <TextBox  Margin="5" FontSize="18"/>
+            <TextBox Text="{Binding Phone,UpdateSourceTrigger=PropertyChanged,ValidatesOnDataErrors=True,ValidatesOnNotifyDataErrors=True}"  Margin="5" FontSize="18"/>
+            <Label Content="Email:" FontSize="18"/>
+            <TextBox Text="{Binding Email,UpdateSourceTrigger=PropertyChanged,ValidatesOnDataErrors=True,ValidatesOnNotifyDataErrors=True}" Margin="5" FontSize="18"/>
+            <Label Content="Bio:" FontSize="18"/>
+            <TextBox Text="{Binding Bio}" Margin="5" FontSize="18"/>
+            <Label Content="Photo:" FontSize="18"/>
+            <TextBox Text="{Binding Photo}" Margin="5" FontSize="18"/>
         </StackPanel>
         <UniformGrid Rows="1" Grid.Row="1">
-            <Button Content="Add" FontSize="16" Margin="5"/>
-            <Button Content="Cancel" FontSize="16" Margin="5"/>
+            <Button Command="{Binding AddCommand}" Content="Add" FontSize="16" Margin="5"/>
+            <Button  Content="Cancel" FontSize="16" Margin="5"/>
         </UniformGrid>
     </Grid>
 </UserControl>

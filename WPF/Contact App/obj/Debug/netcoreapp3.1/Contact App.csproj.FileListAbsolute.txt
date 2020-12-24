@@ -30,3 +30,4 @@ C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\AddCont
 C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\obj\Debug\netcoreapp3.1\View\StatisticsUC.baml
 C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\SimpleInjector.dll
 C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Qt\Projects\FSDE_2912_az\WPF\Contact App\bin\Debug\netcoreapp3.1\FluentValidation.dll

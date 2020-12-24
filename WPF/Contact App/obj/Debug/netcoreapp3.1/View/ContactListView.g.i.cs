@@ -54,7 +54,7 @@ namespace Contact_App.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Contact App;V1.0.0.0;component/view/contactlistview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Contact App;component/view/contactlistview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\ContactListView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,0 +1,45 @@
+Team: Zabil, Hacı, Samur, Muradxan, Rəşid(TL)
+
+Əsas anlayışlar:
+	Prosedur(adı, kateqoriyası, otaq, qiyməti, uzunluğu(vaxt), preparatlar(doza), avadanlıq, nəticələr, rəsept, analizlər, prosedur sorğuları (öncə və sonra), öncədən hazırlıq)
+	Həkim (fərdi məlumatlar, əlaqə məlumatları, kateqoriya, default otağı, cədvəli, təkrarlanan cədvəl, əsas fazi gəliri, pasiyent siyahısı, prosedur siyahısı, ratinq)
+	Pasiyent(fərdi məlumatları, əlaqə məlumatları, xəstəlik tarixcəsi (diaqnoz, analiz nəticələri, prosedurlar (tarixcə)), yazılmış prosedurlar, analizlər)
+	
+	Admistration (Yazılmaq (vaxt, prosedur), pasiyentlər, həkimlər)
+	İnvertarlaşdırma(Avadanlığın siyahısı, dərman siyahısı, otaq siyahısı)
+
+3 fərqli App:
+
+	Pasiyent:
+		Fərdi məlumatların doldurulması,
+		Prosedura Yazılma (redaktə edə bilir və ləvğ edə bilir) + ödəniş edə bilirÇ
+		Analiz nəticələrinin daxil edilməsi,
+		Tarixcəyə baxmaq,
+		Həkimin qiymətləndirməsi,
+		Növbə sistemi(çatmışam, gözləmə, qəbula başla, qəbul bitdi, qiymətləndirmə)
+	Həkim:
+		Cədvəlini ayarlayır,
+		Prosedurlarını ayarlayır,
+		Fərdi məlumatların redaktəsi (otaq seçimi),
+		Prosedura yazma (prosedur sonrası),
+		Diaqnoz qoyma,
+		Resept yazmaq,
+		Analizə göndərmək,
+		Xəstəlik tarixcəsinə baxa bilər (pasiyentlər üztrə, tarix üzrə),
+		Cədvəlinə baxmaq(dəyişiklik etmək),
+		Növbə sistemi(hazırdı, qəbula başladı, qəbulu bitirdi)
+		Pasiyentin qiymətləndirilməsi
+
+	Resepşn:
+		Pasiyent əlavə etmək,
+		Həkim əlavə edə bilir,
+		Yazılma prosesini idarə edə bilir,
+		Dərman Bazası (qiymıtlər, sayı və anbarda olub olmaması)
+		Otaqlar Bazası,
+		Avadanlıq Bazası,
+		Prosedurlar Bazası,
+		Həkimlərin gəlir fazizi + maaşı,
+		Bütün həkim və pasiyentlərin cədvəlləri,
+		Gəlir və XƏrclərin Analizi (həkimlrə üzrə, pasiyentlər üzrə, avadanlıq üzrə, dərmanlar üzrə)
+
+	

@@ -1,0 +1,22 @@
+Team: Məhəmməd Ə.(TL), Elnur, Vüqar, Atif
+
+Əsas Anlayışlar:
+	
+	Xidmət(adı, növü, qiyməti, xidmət müddəti)
+	Cədvəl(Xidmət, müştəri, hansı vaxtda)
+
+2 App var:
+
+	Saç ustası:
+		Fərdi məlumatları doldurur,
+		Təkrarakanan cədvəl,
+		Real Cədvəl,
+		Növbə sistemi(gözləyirəm, xidmət başladı, xidmət bitdi, qiymətləndirmə)
+		Maliyyə analizi(gəlirlər (həftəlik, aylıq, illik), müştəri üzrə analiz)
+		Kataloq əlavəsi
+
+	Müştəri:
+		Fərdi məlumatları doldurur,
+		Xidmətin növünü və vaxtını seçir,
+		Növbə sistemi (gəldim, xidmət başladı, xidmət bitdi, qiymətləndirmə)
+		

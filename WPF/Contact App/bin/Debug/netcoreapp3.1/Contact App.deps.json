@@ -8,12 +8,21 @@
     ".NETCoreApp,Version=v3.1": {
       "Contact App/1.0.0": {
         "dependencies": {
+          "FluentValidation": "9.3.0",
           "MvvmLightLibsStd10": "5.4.1.1",
           "Newtonsoft.Json": "12.0.3",
           "SimpleInjector": "5.2.0"
         },
         "runtime": {
           "Contact App.dll": {}
+        }
+      },
+      "FluentValidation/9.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.3.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.0.1": {},
@@ -63,6 +72,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/9.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C44l6Ih+YwpED/TsXfl6LIq6Z4wLXahstnr6T70uUg1Hs7/bLBKKAo9Nl0sLhVjDE8TA+fF+O3IM4nDrwabcSQ==",
+      "path": "fluentvalidation/9.3.0",
+      "hashPath": "fluentvalidation.9.3.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.0.1": {
       "type": "package",

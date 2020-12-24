@@ -5,7 +5,7 @@ using System.Text;
 namespace Contact_App.Model
 {
    
-
+    
 
     public class Contact
     {

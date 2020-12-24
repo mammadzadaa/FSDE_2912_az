@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sB8PJ7GlGKjgXViw8Z/F0u79zDWeOlNiURDO5DCQTK5nn+Q8vYooGWQ2oPekVjB92wPlKGd4Qsg8zmxx0/BjNw==",
+  "dgSpecHash": "a57rsy/iD6EPrZyrLcDFkdwoB2ieH/hTsMuiQCpc8NX+GdEKz2lg2FBSB1GmEtsZZTtGTfIgpLI4v6pJj3NXjw==",
   "success": true,
   "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\WPF\\Contact App\\Contact App.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Aqil\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\Aqil\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
