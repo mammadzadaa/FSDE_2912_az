@@ -35,7 +35,7 @@ select * from Statuses
 
 CREATE TABLE Orders
 (
-Id int NOT NULL,
+Id int identity(1,1) NOT NULL,
 CustomerId int FOREIGN KEY(CustomerId) references Customers(Id),
 ProductId int FOREIGN KEY(ProductId) references Products(Id),
 StatusId int FOREIGN KEY(StatusId) references Statuses(Id),
@@ -44,6 +44,15 @@ TotalPriece money NOT NULL,
 [Time] datetime NOT NULL,
 PRIMARY KEY(Id)
 )
+
+TRUNCATE TABLE Orders
+
+
+DROP TABLE Orders
+
+
+
+
 
 
 SELECT* FROM Customers;
@@ -61,18 +70,20 @@ Id int identity(1,1) NOT NULL,
 PRIMARY KEY(Id)
 )
 
-INSERT INTO LogStatus VALUES('OrderStatusUpdated')
+INSERT INTO LogStatus VALUES('NewStatusAdded')
 
 CREATE TABLE OrdersLog
 (
 Id int identity(1,1) NOT NULL,
-OrderId INT FOREIGN KEY(OrderId) references Orders(Id),
+OrderId INT not null,
 StatusId int FOREIGN KEY(StatusId) references LogStatus(Id),
 [Time] datetime NOT NULL,
 PRIMARY KEY(Id)
 )
 
-SELECT * FROM OrdersLog
+DROP TABLE OrdersLog;
+
+SELECT * FROM OrdersLog;
 
 CREATE TRIGGER AddedOrderLog
 ON Orders AFTER INSERT
@@ -85,9 +96,24 @@ INSERT INTO OrdersLog VALUES((SELECT TOP 1 Id
 
 END
 
+CREATE TRIGGER DeletableOrder
+ON Orders INSTEAD OF DELETE
+AS
+BEGIN
 
-INSERT INTO Orders VALUES(1,1,1,1,1,2000,GETDATE())
+DELETE FROM Orders
+WHERE DATEDIFF(MONTH,[Time],GETDATE()) > 6
+
+END
+
+DROP TRIGGER DeletableOrder
+
+
+
+INSERT INTO Orders VALUES(2,2,2,2,1850,'2020-05-12 12:00:00.000')
 SELECT*FROM OrdersLog;
 SELECT* FROM Orders;
 SELECT* FROM Customers;
 SELECT* FROM Products;
+
+DELETE FROM Orders WHERE Id =3;
