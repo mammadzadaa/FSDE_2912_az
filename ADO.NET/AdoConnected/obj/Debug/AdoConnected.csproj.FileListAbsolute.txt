@@ -1,0 +1,16 @@
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\AdoConnected.exe.config
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\AdoConnected.exe
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\AdoConnected.pdb
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\System.Security.AccessControl.dll
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\System.Security.Permissions.dll
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\System.Security.Principal.Windows.dll
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\System.Security.AccessControl.xml
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\System.Security.Permissions.xml
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\bin\Debug\System.Security.Principal.Windows.xml
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\obj\Debug\AdoConnected.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\obj\Debug\AdoConnected.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\obj\Debug\AdoConnected.csproj.CopyComplete
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\obj\Debug\AdoConnected.exe
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\AdoConnected\obj\Debug\AdoConnected.pdb
