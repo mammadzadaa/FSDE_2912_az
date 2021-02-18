@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0F/lsHD37xB8IS1Sb+uEkN6x7cxkgE/KdPyDaEm1DooixlQ/KUcAXfeIZds/qNPTxiFzaOxA9nUBqQXDe9jSw==",
+  "success": true,
+  "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\ADO.NET\\AcademyAppGeneral\\AcademyAppGeneral.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
