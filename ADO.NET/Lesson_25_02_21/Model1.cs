@@ -8,7 +8,7 @@ namespace Lesson_25_02_21
     public partial class Model1 : DbContext
     {
         public Model1()
-            : base("name=Model1")
+            : base("name=Connection")
         {
         }
 

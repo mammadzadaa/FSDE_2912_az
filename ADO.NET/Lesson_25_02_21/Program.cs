@@ -11,18 +11,48 @@ namespace Lesson_25_02_21
     {
         static void Main(string[] args)
         {
-            using (Model1 db = new Model1())
+            using (DealershipDB db = new DealershipDB())
             {
-                foreach (var c in db.Customers)
+                var car = new Car()
                 {
-                    Console.WriteLine(c.FirstName);
-                    Console.WriteLine(c.CartNumber);
-                    Console.WriteLine(c.Email);
-                    Console.WriteLine();
+                    Vendor = "Mercedes",
+                    Model = "E220",
+                    EngineSize = 2.2F,
+                    HorsePower = 200
+                };
+                db.Cars.Add(car);
 
-                }
-
+                var buyer = new Buyer()
+                {
+                    Name = "Maga",
+                    Surname = "Askerli",
+                    Phone = "+994503018291"
+                };
+                db.Buyers.Add(buyer);
+                db.Sales.Add(new Sale
+                {
+                    Car = car,
+                    Buyer = buyer,
+                    Price = 12500,
+                    DateTime = DateTime.Now
+                });
+                Console.ReadKey();
+                db.SaveChanges();
+                Console.WriteLine("Saving Complited");
             }
+
+            //using (Model1 db = new Model1())
+            //{
+            //    foreach (var c in db.Customers)
+            //    {
+            //        Console.WriteLine(c.FirstName);
+            //        Console.WriteLine(c.CartNumber);
+            //        Console.WriteLine(c.Email);
+            //        Console.WriteLine();
+
+            //    }
+
+            //}
 
             using (StudentContext db = new StudentContext())
             {
@@ -40,11 +70,11 @@ namespace Lesson_25_02_21
 
                 //db.Students.Remove(db.Students.First());
 
-                var arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+                //var arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
-                arr.Where(x => x > 1).Where(x => x % 2 != 0);
+                //arr.Where(x => x > 1).Where(x => x % 2 != 0);
 
-                var s = db.Students.FirstOrDefault(x => x.FirstName == "Aftandil");
+                //var s = db.Students.FirstOrDefault(x => x.FirstName == "Aftandil");
                 //Reflection
                 //Type t = typeof(Student);
                 //var fs = t.GetProperties();
@@ -58,18 +88,18 @@ namespace Lesson_25_02_21
                 //    Console.WriteLine();
                 //}
 
-                Expression<Predicate<int>> e = (x => x % 2 != 0);
-                Console.WriteLine(e.Type);
-                Console.WriteLine(e.NodeType);
-                Console.WriteLine(e.Body.Type);
-                Console.WriteLine(e.Body.NodeType);
-                Console.WriteLine(e.Parameters[0].Name);
-                Console.WriteLine(e.Reduce().NodeType);
-                Console.WriteLine(e.Reduce().Type.FullName);
+                //Expression<Predicate<int>> e = (x => x % 2 != 0);
+                //Console.WriteLine(e.Type);
+                //Console.WriteLine(e.NodeType);
+                //Console.WriteLine(e.Body.Type);
+                //Console.WriteLine(e.Body.NodeType);
+                //Console.WriteLine(e.Parameters[0].Name);
+                //Console.WriteLine(e.Reduce().NodeType);
+                //Console.WriteLine(e.Reduce().Type.FullName);
 
-                db.Students.Where(x => x.FirstName.Contains('a'));
+                //db.Students.Where(x => x.FirstName.Contains('a'));
 
-                db.Students.FirstOrDefault(x => x.FirstName == "Aftandil").Login = "afti12345";
+                //db.Students.FirstOrDefault(x => x.FirstName == "Aftandil").Login = "afti12345";
                 //Console.WriteLine(db.ChangeTracker.HasChanges());
                 //db.SaveChanges();
                 //var students = db.Students;

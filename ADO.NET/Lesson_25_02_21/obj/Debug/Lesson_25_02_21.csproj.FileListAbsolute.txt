@@ -10,3 +10,6 @@ C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_25_02_21\obj\Debug\Lesson_25_02_21.cs
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_25_02_21\obj\Debug\Lesson_25_02_21.csproj.CopyComplete
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_25_02_21\obj\Debug\Lesson_25_02_21.exe
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_25_02_21\obj\Debug\Lesson_25_02_21.pdb
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_25_02_21\obj\Debug\Lesson_25_02_21.Migrations.DealershipMigration.resources
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_25_02_21\obj\Debug\Lesson_25_02_21.csproj.GenerateResource.cache
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_25_02_21\obj\Debug\Lesson_25_02_21.Migrations.SaleBuyeAdded.resources

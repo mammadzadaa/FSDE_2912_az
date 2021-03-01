@@ -55,8 +55,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Buyer.cs" />
+    <Compile Include="Car.cs" />
     <Compile Include="Customer.cs" />
+    <Compile Include="DealershipDB.cs" />
     <Compile Include="LogStatu.cs" />
+    <Compile Include="Migrations\202103011622431_DealershipMigration.cs" />
+    <Compile Include="Migrations\202103011622431_DealershipMigration.designer.cs">
+      <DependentUpon>202103011622431_DealershipMigration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202103011745359_SaleBuyeAdded.cs" />
+    <Compile Include="Migrations\202103011745359_SaleBuyeAdded.designer.cs">
+      <DependentUpon>202103011745359_SaleBuyeAdded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Model1.cs" />
     <Compile Include="Order.cs" />
     <Compile Include="OrdersLog.cs" />
@@ -64,6 +76,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reqem.cs" />
+    <Compile Include="Sale.cs" />
     <Compile Include="Status.cs" />
     <Compile Include="Student.cs" />
     <Compile Include="StudentContext.cs" />
@@ -71,6 +84,14 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202103011622431_DealershipMigration.resx">
+      <DependentUpon>202103011622431_DealershipMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202103011745359_SaleBuyeAdded.resx">
+      <DependentUpon>202103011745359_SaleBuyeAdded.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
