@@ -12,3 +12,5 @@ C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.ex
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.pdb
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.Migrations.InitialMigrationUniversity.resources
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.csproj.GenerateResource.cache
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\bin\Debug\Dapper.dll
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\bin\Debug\Dapper.xml
