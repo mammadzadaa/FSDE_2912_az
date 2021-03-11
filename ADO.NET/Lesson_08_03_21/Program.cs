@@ -19,9 +19,37 @@ namespace Lesson_08_03_21
             using (var _conn = new SqlConnection(_conn_str))
             {
                 _conn.Open();
-                var s = _conn.Query<Student>("SELECT * FROM Students").ToList();
-                Console.WriteLine(s[0].Group.Name);
-                s.ForEach(Console.WriteLine);
+                var newSql = @"SELECT * FROM Students JOIN Groups ON Group_Id = Students.Group_Id";
+                var oldSql = @"SELECT * FROM Students";
+                var gd = new Dictionary<int, Group>();
+                var sd = new Dictionary<int, Student>();
+                var st = _conn.Query<Student,Group,Student>(
+                    newSql, (s,g) =>
+                    {
+                        Group gTemp;
+                        if (!gd.ContainsKey(g.Id))
+                        {
+                            gTemp = g;
+                            gd.Add(g.Id, g);
+                        }
+                        else
+                        {
+                            gTemp = gd[g.Id];
+                        }
+                            s.Group = gTemp;
+                        if(!sd.ContainsKey(s.Id))
+                        {
+                            sd.Add(s.Id, s);                            
+                            return s; 
+                        }
+                        else
+                        {
+                            return sd[s.Id];
+                        }
+                    }).Distinct().ToList();
+
+                Console.WriteLine(st[0].Group.Name);
+                st.ForEach(Console.WriteLine);
             }
             Console.ReadKey();
 
