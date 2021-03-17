@@ -1,0 +1,7 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_17_03_21\bin\Debug\Lesson_17_03_21.exe.config
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_17_03_21\bin\Debug\Lesson_17_03_21.exe
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_17_03_21\bin\Debug\Lesson_17_03_21.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_17_03_21\obj\Debug\Lesson_17_03_21.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_17_03_21\obj\Debug\Lesson_17_03_21.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_17_03_21\obj\Debug\Lesson_17_03_21.exe
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_17_03_21\obj\Debug\Lesson_17_03_21.pdb
