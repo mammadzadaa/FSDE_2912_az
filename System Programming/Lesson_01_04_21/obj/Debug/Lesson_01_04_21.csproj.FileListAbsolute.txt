@@ -1,0 +1,15 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\bin\Debug\Lesson_01_04_21.exe.config
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\bin\Debug\Lesson_01_04_21.exe
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\bin\Debug\Lesson_01_04_21.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\MainWindow.g.cs
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\App.g.cs
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21_MarkupCompile.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21_MarkupCompile.lref
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\MainWindow.baml
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21.g.resources
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21.Properties.Resources.resources
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21.csproj.GenerateResource.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21.exe
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21\obj\Debug\Lesson_01_04_21.pdb

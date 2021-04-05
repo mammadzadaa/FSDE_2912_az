@@ -1,0 +1,7 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21_Async\bin\Debug\Lesson_01_04_21_Async.exe.config
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21_Async\bin\Debug\Lesson_01_04_21_Async.exe
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21_Async\bin\Debug\Lesson_01_04_21_Async.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21_Async\obj\Debug\Lesson_01_04_21_Async.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21_Async\obj\Debug\Lesson_01_04_21_Async.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21_Async\obj\Debug\Lesson_01_04_21_Async.exe
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_01_04_21_Async\obj\Debug\Lesson_01_04_21_Async.pdb
