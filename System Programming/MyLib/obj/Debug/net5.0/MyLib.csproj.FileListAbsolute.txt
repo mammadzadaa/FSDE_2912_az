@@ -1,0 +1,11 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\bin\Debug\net5.0\MyLib.deps.json
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\bin\Debug\net5.0\MyLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\bin\Debug\net5.0\ref\MyLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\bin\Debug\net5.0\MyLib.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\ref\MyLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.pdb

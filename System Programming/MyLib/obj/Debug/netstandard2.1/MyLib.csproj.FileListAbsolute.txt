@@ -1,0 +1,9 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\bin\Debug\netstandard2.1\MyLib.deps.json
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\bin\Debug\netstandard2.1\MyLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\bin\Debug\netstandard2.1\MyLib.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\netstandard2.1\MyLib.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\netstandard2.1\MyLib.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\netstandard2.1\MyLib.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\netstandard2.1\MyLib.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\netstandard2.1\MyLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\netstandard2.1\MyLib.pdb

@@ -1,0 +1,12 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\bin\Debug\net5.0\TestLib.deps.json
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\bin\Debug\net5.0\TestLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\bin\Debug\net5.0\ref\TestLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\bin\Debug\net5.0\TestLib.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\obj\Debug\net5.0\TestLib.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\obj\Debug\net5.0\TestLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\obj\Debug\net5.0\TestLib.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\obj\Debug\net5.0\TestLib.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\obj\Debug\net5.0\TestLib.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\obj\Debug\net5.0\TestLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\obj\Debug\net5.0\ref\TestLib.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\TestLib\obj\Debug\net5.0\TestLib.pdb
