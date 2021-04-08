@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PluginOne/1.0.0": {
+        "dependencies": {
+          "IPlugin": "1.0.0"
+        },
+        "runtime": {
+          "PluginOne.dll": {}
+        }
+      },
+      "IPlugin/1.0.0": {
+        "runtime": {
+          "IPlugin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IPlugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

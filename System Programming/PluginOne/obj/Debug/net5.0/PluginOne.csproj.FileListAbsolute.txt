@@ -1,0 +1,15 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\bin\Debug\net5.0\PluginOne.deps.json
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\bin\Debug\net5.0\PluginOne.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\bin\Debug\net5.0\ref\PluginOne.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\bin\Debug\net5.0\PluginOne.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\bin\Debug\net5.0\IPlugin.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\bin\Debug\net5.0\IPlugin.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\PluginOne.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\PluginOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\PluginOne.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\PluginOne.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\PluginOne.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\PluginOne.csproj.CopyComplete
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\PluginOne.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\ref\PluginOne.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginOne\obj\Debug\net5.0\PluginOne.pdb

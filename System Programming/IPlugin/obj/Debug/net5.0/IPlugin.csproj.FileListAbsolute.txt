@@ -1,0 +1,12 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\bin\Debug\net5.0\IPlugin.deps.json
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\bin\Debug\net5.0\IPlugin.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\bin\Debug\net5.0\ref\IPlugin.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\bin\Debug\net5.0\IPlugin.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\obj\Debug\net5.0\IPlugin.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\obj\Debug\net5.0\IPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\obj\Debug\net5.0\IPlugin.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\obj\Debug\net5.0\IPlugin.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\obj\Debug\net5.0\IPlugin.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\obj\Debug\net5.0\IPlugin.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\obj\Debug\net5.0\ref\IPlugin.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\IPlugin\obj\Debug\net5.0\IPlugin.pdb

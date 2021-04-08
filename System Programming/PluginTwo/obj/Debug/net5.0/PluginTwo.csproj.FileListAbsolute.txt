@@ -1,0 +1,15 @@
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\bin\Debug\net5.0\PluginTwo.deps.json
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\bin\Debug\net5.0\PluginTwo.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\bin\Debug\net5.0\ref\PluginTwo.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\bin\Debug\net5.0\PluginTwo.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\bin\Debug\net5.0\IPlugin.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\bin\Debug\net5.0\IPlugin.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\PluginTwo.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\PluginTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\PluginTwo.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\PluginTwo.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\PluginTwo.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\PluginTwo.csproj.CopyComplete
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\PluginTwo.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\ref\PluginTwo.dll
+C:\Qt\Projects\FSDE_2912_az\System Programming\PluginTwo\obj\Debug\net5.0\PluginTwo.pdb
