@@ -1,0 +1,16 @@
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\bin\Debug\net5.0\ClientApp.exe
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\bin\Debug\net5.0\ClientApp.deps.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\bin\Debug\net5.0\ClientApp.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\bin\Debug\net5.0\ClientApp.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\bin\Debug\net5.0\ClientApp.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\bin\Debug\net5.0\ref\ClientApp.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\bin\Debug\net5.0\ClientApp.pdb
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ClientApp.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ClientApp.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ClientApp.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ref\ClientApp.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ClientApp.pdb
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ClientApp.genruntimeconfig.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\ClientApp\obj\Debug\net5.0\ClientApp.csprojAssemblyReference.cache

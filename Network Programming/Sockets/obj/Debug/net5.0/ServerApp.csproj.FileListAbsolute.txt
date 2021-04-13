@@ -1,0 +1,16 @@
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\bin\Debug\net5.0\ServerApp.exe
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\bin\Debug\net5.0\ServerApp.deps.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\bin\Debug\net5.0\ServerApp.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\bin\Debug\net5.0\ServerApp.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\bin\Debug\net5.0\ServerApp.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\bin\Debug\net5.0\ref\ServerApp.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\bin\Debug\net5.0\ServerApp.pdb
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ServerApp.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ServerApp.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ServerApp.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ServerApp.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ServerApp.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ref\ServerApp.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ServerApp.pdb
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Sockets\obj\Debug\net5.0\ServerApp.genruntimeconfig.cache
