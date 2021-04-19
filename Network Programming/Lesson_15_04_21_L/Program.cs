@@ -9,7 +9,7 @@ namespace Lesson_15_04_21_L
     {
         static void Main(string[] args)
         {
-            IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"),5001);
+        IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"),5001);
             TcpClient client = new TcpClient();
             client.Connect(endPoint);
 

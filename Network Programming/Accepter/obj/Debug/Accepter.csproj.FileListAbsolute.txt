@@ -1,0 +1,16 @@
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\bin\Debug\Accepter.exe.config
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\bin\Debug\Accepter.exe
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\bin\Debug\Accepter.pdb
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\MainWindow.g.cs
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\App.g.cs
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter_MarkupCompile.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter_MarkupCompile.lref
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\MainWindow.baml
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter.g.resources
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter.Properties.Resources.resources
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter.csproj.GenerateResource.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter.csproj.Fody.CopyLocal.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter.exe
+C:\Qt\Projects\FSDE_2912_az\Network Programming\Accepter\obj\Debug\Accepter.pdb
