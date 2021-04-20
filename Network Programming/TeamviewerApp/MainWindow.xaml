@@ -18,15 +18,15 @@
 
 
         </Grid.ColumnDefinitions>
-        <Image Grid.ColumnSpan="3" />
+        <Image Source="{Binding ImgSrc}" Grid.ColumnSpan="3" />
         <DockPanel Grid.Row="1" Grid.Column="0">
             <Label VerticalAlignment="Center">IP :</Label>
-            <TextBox VerticalAlignment="Center"></TextBox>
+            <TextBox Text="{Binding Ip,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Center"></TextBox>
         </DockPanel>
         <DockPanel Margin="20" Grid.Row="1" Grid.Column="1">
             <Label VerticalAlignment="Center">Port :</Label>
-            <TextBox VerticalAlignment="Center"></TextBox>
+            <TextBox Text="{Binding Port,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Center"></TextBox>
         </DockPanel>
-        <Button Margin="20" Grid.Row="1" Grid.Column="3">Connect</Button>
+        <Button Command="{Binding ConnectButtonCommand }" Margin="20" Grid.Row="1" Grid.Column="3">Connect</Button>
     </Grid>
 </Window>

@@ -18,12 +18,12 @@
         </Label>
         <DockPanel Grid.Row="1">
             <Label>IP :</Label>
-            <Label></Label>
+            <Label Content="{Binding Ip,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" ></Label>
         </DockPanel>
         <DockPanel Grid.Row="2" >
             <Label>Port :</Label>
-            <Label></Label>
+            <Label Content="{Binding Port,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"></Label>
         </DockPanel>
-        <Button Grid.Row="3" Margin="10" >Disconnect</Button>
+        <Button Command="{Binding DisconnectButtonClicked}" Grid.Row="3" Margin="10" >Disconnect</Button>
     </Grid>
 </Window>

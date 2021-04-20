@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Accepter.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -24,15 +25,9 @@ namespace Accepter
         public MainWindow()
         {
             InitializeComponent();
+            this.DataContext = new MainVM();
         }
 
-        public byte[] ImageToByteArray(Image imageIn)
-        {
-            using (var ms = new MemoryStream())
-            {
-                imageIn.Save(ms, imageIn.RawFormat);
-                return ms.ToArray();
-            }
-        }
+   
     }
 }
