@@ -1,0 +1,16 @@
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\bin\Debug\net5.0\HttpClient.exe
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\bin\Debug\net5.0\HttpClient.deps.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\bin\Debug\net5.0\HttpClient.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\bin\Debug\net5.0\HttpClient.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\bin\Debug\net5.0\HttpClient.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\bin\Debug\net5.0\ref\HttpClient.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\bin\Debug\net5.0\HttpClient.pdb
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\HttpClient.csprojAssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\HttpClient.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\HttpClient.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\HttpClient.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\HttpClient.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\ref\HttpClient.dll
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\HttpClient.pdb
+C:\Qt\Projects\FSDE_2912_az\Network Programming\HttpClient\obj\Debug\net5.0\HttpClient.genruntimeconfig.cache
