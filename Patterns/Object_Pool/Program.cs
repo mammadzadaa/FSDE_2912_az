@@ -19,7 +19,9 @@ namespace Object_Pool
 
             pool.ReturnEnemy(enemy);
             pool.ReturnEnemy(enemy1);
+
             var enemy3 = pool.GetEnemy();
+            PrintEnemy(enemy2);
             PrintEnemy(enemy3);
             Console.ReadKey();
 

@@ -13,7 +13,7 @@ namespace Builder
             carBuilder.SetEngine(new Engine());
             carBuilder.SetLeftDoor();
             carBuilder.SetRightDoor();
-            carBuilder.SetWheels(new Wheels);
+            carBuilder.SetWheels(new Wheels());
             var anotherCar = carBuilder.Build();
             Console.WriteLine(anotherCar);
 

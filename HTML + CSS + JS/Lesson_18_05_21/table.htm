@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table{
+            width: 100%;
+        }
+        thead{
+            color: red;
+        }
+        tfoot{
+            background-color: aqua;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <td>Id</td>
+            <td>Name</td>
+            <td>Price</td>
+        </thead>
+        
+        <tr>
+            <td rowspan="3">1</td>
+            <td>One</td>
+            <td>11</td>
+        </tr>
+        <tr>
+            
+            <td>Two</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            
+            <td>Three</td>
+            <td>33</td>
+        </tr>
+        <tfoot>
+            <td colspan="2">Total</td>
+            <td>66</td>
+        </tfoot>
+    </table>
+</body>
+</html>

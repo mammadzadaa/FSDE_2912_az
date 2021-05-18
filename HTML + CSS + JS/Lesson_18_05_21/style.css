@@ -1,0 +1,39 @@
+body {
+    background-color: brown;
+}
+
+p {
+    
+    background-color: rgba(255, 255, 0, 50%);
+    color: #8a2be2;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-decoration: underline green;
+    text-transform: lowercase;
+    text-shadow: black 2px 2px;
+    line-height: 30px;
+    letter-spacing:  5px;
+    word-spacing: 10px;
+}
+
+.other{
+    background-color: deeppink;
+    color: darksalmon;
+    font-size: 14px;
+}
+
+.paragraph
+{
+    background-color: aquamarine;
+    color: darkgreen;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#some-index
+{
+    background-color: cornflowerblue;
+    color: rgb(255, 166, 0);
+}
