@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics.Contracts;
+﻿using System.Diagnostics.Contracts;
 
 namespace Composite
 {
@@ -25,48 +23,6 @@ namespace Composite
             subsubfolder.Add(new Folder("Some Folder"));
 
             root.Draw(0);
-        }
-    }
-
-    public abstract class FileSystemElement
-    {
-        public FileSystemElement(string name)
-        {
-            Name = name;
-        }
-        public string Name { get; set; }
-        public abstract void Draw(int depth);
-    }
-
-    public class File : FileSystemElement
-    {
-        public File(string name) : base(name)
-        {}
-        public override void Draw(int depth)
-        {
-            Console.WriteLine(new String('-',depth) + Name);
-        }
-    }
-
-    public class Folder : FileSystemElement
-    {
-        private List<FileSystemElement> elements = new List<FileSystemElement>(); 
-        public Folder(string name) : base(name) { }
-        public void Add(FileSystemElement element)
-        {
-            elements.Add(element);
-        }
-        public void Remove(FileSystemElement element)
-        {
-            elements.Remove(element);
-        }
-        public override void Draw(int depth)
-        {
-            Console.WriteLine(new String('-', depth) + Name);
-            foreach (var item in elements)
-            {
-                item.Draw(depth + 2);
-            }
         }
     }
 

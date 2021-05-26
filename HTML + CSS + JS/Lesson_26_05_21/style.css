@@ -1,0 +1,84 @@
+#hello
+{
+    background-color: red;
+}
+
+.box
+{
+    height: 100px;
+    width: 100px;
+}
+
+.red
+{
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    background-color: red;
+}
+
+.img-container{
+    margin-top: 100px;
+    position: relative;
+    height: 300px;
+    width: 500px;
+}
+
+.img-container img
+{
+    width: 100%;
+    height: 100%;
+    object-fit:contain;
+    
+}
+.overlay
+{
+    position: absolute;
+    background-color: black;
+    top:0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.5;
+}
+.overlay:hover
+{
+    opacity: 0.7;
+    transition: 0.3s;
+}
+.img-container p
+{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position:relative;
+    bottom: 200px;
+    color: white;
+    width: 600px;
+    text-align: center;
+}
+
+.green
+{
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+    background-color:green;
+}
+
+.blue
+{
+    position: sticky;
+    top: 20px;
+    background-color: blue;
+    z-index: 3;
+}
+
+.yellow
+{
+    position: fixed;
+    top: 100px;
+    left: 500px;
+   
+    background-color: yellow;
+    z-index: -1;
+}
