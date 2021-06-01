@@ -1,0 +1,51 @@
+body {
+  background-color: lightgray;
+}
+
+.color {
+  width: 100px;
+  height: 100px;
+}
+
+.color:nth-child(1) {
+  background-color: #bda3bb;
+}
+
+.color:nth-child(2) {
+  background-color: #e30dbc;
+}
+
+.color:nth-child(3) {
+  background-color: #b84a82;
+}
+
+.color:nth-child(4) {
+  background-color: #cef038;
+}
+
+.color:nth-child(5) {
+  background-color: #ee12f7;
+}
+
+span {
+  font-size: 2em;
+  background-color: aqua;
+  color: yellow;
+}
+
+span:hover {
+  color: #cccc00;
+}
+
+p {
+  font-size: 2em;
+}
+
+div p {
+  background-color: orange;
+}
+
+div p:hover {
+  background-color: green;
+}
+/*# sourceMappingURL=style.css.map */

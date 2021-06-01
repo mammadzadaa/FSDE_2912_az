@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q7EyHweF1YS+aX8tVj8WzIZr5dBrKveKNUDjFF8764XM269zdvRGxzqMGtND9QluJgBxjndwz032Exw76eIJ2Q==",
+  "dgSpecHash": "aRZRT26fd9fFYAur0Hv6k/QbCsDBI/bD3PxbuNSWs57f8Nnith7PgcybZxXC50TZL0sqW+kmPFSrFIFFqvlryA==",
   "success": true,
   "projectFilePath": "C:\\Qt\\Projects\\FSDE_2912_az\\Patterns\\Dependency Inversion Principle\\Dependency Inversion Principle.csproj",
   "expectedPackageFiles": [],

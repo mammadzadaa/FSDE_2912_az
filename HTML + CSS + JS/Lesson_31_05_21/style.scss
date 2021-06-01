@@ -1,0 +1,46 @@
+@import 'base';
+
+$size : 2em;
+$default-color: orange;
+$text-c : yellow;
+
+@mixin text-style($f-size) {
+    font-size: $f-size;
+    background-color: aqua;
+    color: $text-c;
+    &:hover{
+        color: darken($text-c, 10%);
+    }
+}
+
+.color
+{
+    width: 100px;
+    height: 100px;
+}
+
+@for $i from 1 to 6 
+{
+    .color:nth-child(#{$i})
+    {
+        background-color: rgb(random(255),random(255),random(255));
+    }
+}
+
+span{
+    @include text-style(2em);
+}
+
+p {
+    font-size: $size;
+}
+
+div{
+    p{
+        background-color: $default-color;
+        &:hover{
+            background-color: $some-color;
+        }
+    } 
+    
+}

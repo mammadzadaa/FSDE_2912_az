@@ -28,7 +28,7 @@ namespace Open_Closed_Principle
         }
     }
 
-    class Boznash : IMeal
+    class Bozbash : IMeal
     {
         public void Make()
         {
