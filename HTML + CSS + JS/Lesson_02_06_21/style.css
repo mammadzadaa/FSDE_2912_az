@@ -1,0 +1,131 @@
+.container {
+  width: 600px;
+  height: 300px;
+  background-color: red;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (20%)[5];
+      grid-template-columns: repeat(5, 20%);
+  -ms-grid-rows: 1fr 2fr;
+      grid-template-rows: 1fr 2fr;
+  grid-column-gap: 10px;
+  grid-row-gap: 15px;
+  grid-gap: 5px;
+}
+
+.cell {
+  border: 1px solid black;
+  background-color: aqua;
+}
+
+.extra {
+  -ms-grid-column: 2;
+      grid-column-start: 2;
+  grid-column-end: 5;
+  -ms-grid-row: 1;
+      grid-row-start: 1;
+  grid-row-end: 3;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  font-size: 30px;
+  background-color: red;
+  -webkit-transition: 2s;
+  transition: 2s;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+          transition-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.box:hover {
+  -webkit-transition-delay: 1s;
+          transition-delay: 1s;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: aquamarine;
+  -webkit-transform: translateX(300px);
+          transform: translateX(300px);
+}
+
+@-webkit-keyframes test-animation {
+  from {
+    background-color: red;
+  }
+  to {
+    background-color: black;
+  }
+}
+
+@keyframes test-animation {
+  from {
+    background-color: red;
+  }
+  to {
+    background-color: black;
+  }
+}
+
+@-webkit-keyframes another-animation {
+  25% {
+    background-color: aqua;
+    -webkit-transform: translate(300px, 0px);
+            transform: translate(300px, 0px);
+  }
+  50% {
+    background-color: aquamarine;
+    -webkit-transform: translate(300px, 300px);
+            transform: translate(300px, 300px);
+  }
+  75% {
+    background-color: lightgreen;
+    -webkit-transform: translate(0px, 300px);
+            transform: translate(0px, 300px);
+  }
+  100% {
+    background-color: yellow;
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px);
+  }
+}
+
+@keyframes another-animation {
+  25% {
+    background-color: aqua;
+    -webkit-transform: translate(300px, 0px);
+            transform: translate(300px, 0px);
+  }
+  50% {
+    background-color: aquamarine;
+    -webkit-transform: translate(300px, 300px);
+            transform: translate(300px, 300px);
+  }
+  75% {
+    background-color: lightgreen;
+    -webkit-transform: translate(0px, 300px);
+            transform: translate(0px, 300px);
+  }
+  100% {
+    background-color: yellow;
+    -webkit-transform: translate(0px, 0px);
+            transform: translate(0px, 0px);
+  }
+}
+
+.test {
+  width: 200px;
+  height: 200px;
+  border: 2px solid green;
+}
+
+.test:hover {
+  -webkit-animation: another-animation;
+          animation: another-animation;
+  -webkit-animation-duration: 3s;
+          animation-duration: 3s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+/*# sourceMappingURL=style.css.map */
