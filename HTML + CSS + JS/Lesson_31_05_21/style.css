@@ -8,23 +8,23 @@ body {
 }
 
 .color:nth-child(1) {
-  background-color: #c5e212;
+  background-color: #db705e;
 }
 
 .color:nth-child(2) {
-  background-color: #1d7527;
+  background-color: #3446f5;
 }
 
 .color:nth-child(3) {
-  background-color: #7f37cc;
+  background-color: #0b5b18;
 }
 
 .color:nth-child(4) {
-  background-color: #70a476;
+  background-color: #a1811c;
 }
 
 .color:nth-child(5) {
-  background-color: #328ad2;
+  background-color: #dc4bd5;
 }
 
 span {

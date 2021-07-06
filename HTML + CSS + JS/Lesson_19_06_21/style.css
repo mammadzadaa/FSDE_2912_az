@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.context {
+  background-color: aliceblue;
+  display: none;
+  font-size: medium;
+  width: 200px;
+  height: auto;
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+}
+
+.context ul {
+  margin: 0;
+  padding: 0;
+}
+/*# sourceMappingURL=style.css.map */
