@@ -5,9 +5,9 @@ using System.Text;
 
 namespace AspIntro.MyWebHost
 {
-    delegate void HttpHandle(HttpListenerContext context);
+   public delegate void HttpHandle(HttpListenerContext context);
 
-    interface IMiddleware
+    public interface IMiddleware
     {
         public HttpHandle Next { get; set; }
 

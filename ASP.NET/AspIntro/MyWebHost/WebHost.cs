@@ -10,10 +10,18 @@ namespace AspIntro
     {
         private int port;
         private HttpListener httpListener;
+        private MiddlewareBuilder middlewareBuilder = new MiddlewareBuilder();
+        private HttpHandle handle;
 
         public WebHost(int port)
         {
             this.port = port;
+        }
+
+        public void UseSturtup<T>() where T : IStartup
+        {
+            var startup = Activator.CreateInstance(typeof(T)) as IStartup;
+            handle = startup.Configure(middlewareBuilder);
         }
 
         public void Run()
@@ -37,12 +45,7 @@ namespace AspIntro
 
         public void HandleRequest(HttpListenerContext context)
         {
-            StaticFilesMiddleware staticFilesMiddleware = new StaticFilesMiddleware();
-            LoggerMiddleware loggerMiddleware = new LoggerMiddleware();
-
-            loggerMiddleware.Next = staticFilesMiddleware.Handle;
-            staticFilesMiddleware.Next = c => c.Response.Close();
-            loggerMiddleware.Handle(context);
+            handle(context);
         } 
     }
 }
