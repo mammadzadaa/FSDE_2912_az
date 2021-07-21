@@ -5,7 +5,6 @@ C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\bin\Debug\EntityFramework.dl
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\bin\Debug\EntityFramework.SqlServer.dll
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\bin\Debug\EntityFramework.xml
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\bin\Debug\EntityFramework.SqlServer.xml
-C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.csprojAssemblyReference.cache
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.csproj.CoreCompileInputs.cache
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.csproj.CopyComplete
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.exe
@@ -14,3 +13,4 @@ C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.Mi
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.csproj.GenerateResource.cache
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\bin\Debug\Dapper.dll
 C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\bin\Debug\Dapper.xml
+C:\Qt\Projects\FSDE_2912_az\ADO.NET\Lesson_08_03_21\obj\Debug\Lesson_08_03_21.csproj.AssemblyReference.cache

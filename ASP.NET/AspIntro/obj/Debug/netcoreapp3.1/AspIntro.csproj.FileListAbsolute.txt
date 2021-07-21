@@ -1,0 +1,14 @@
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\AspIntro.exe
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\AspIntro.deps.json
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\AspIntro.runtimeconfig.json
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\AspIntro.runtimeconfig.dev.json
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\AspIntro.dll
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\AspIntro.pdb
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.csproj.AssemblyReference.cache
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.AssemblyInfoInputs.cache
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.AssemblyInfo.cs
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.csproj.CoreCompileInputs.cache
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.dll
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.pdb
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.genruntimeconfig.cache
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\wwwroot\Home.html

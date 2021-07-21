@@ -7,17 +7,19 @@ using System.Threading.Tasks;
 using Lesson_08_03_21.Models;
 using System.Data.SqlClient;
 using Dapper;
+using System.Linq.Expressions;
 
 namespace Lesson_08_03_21
 {
     class Program
     {
         static void Main(string[] args)
-        {
+        {     
             var _conn_str = @"data source=localhost\SQLEXPRESS;initial catalog=University;integrated security=True;MultipleActiveResultSets=True";
             //Console.ReadKey();
             using (var _conn = new SqlConnection(_conn_str))
             {
+             
                 _conn.Open();
                 var s = _conn.Query<Student>("Select * FROM Students");
                 var tempStudent = s.First(x=>x.Name=="Muradxan");

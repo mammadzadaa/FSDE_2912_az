@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+
+    <!-- Reference to the Bing Maps SDK -->
+    <script type='text/javascript'
+            src='http://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=Ana67WOz8m3W21fR6Mnxla7yagUepBJt5lNvhFqZLtyxAUtufwEqRKd6R0S69ZJH' 
+            async defer></script>
+    
+    <script type='text/javascript'>
+    function GetMap()
+    {
+        var map = new Microsoft.Maps.Map('#myMap');
+
+        //Add your post map load code here.
+    }
+    </script>
+</head>
+<body>
+    <div id="myMap" style="position:relative;width:600px;height:400px;"></div>
+</body>
+</html>
+
+
+
+<!-- <!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple Map</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script src="./script.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id='printoutPanel'></div>
+        
+        <div id='myMap' style='width: 100vw; height: 100vh;'></div>
+        <script type='text/javascript'>
+            function loadMapScenario() {
+                var map = new Microsoft.Maps.Map(document.getElementById('myMap'), {});
+                
+            }
+        </script>
+    <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=Ana67WOz8m3W21fR6Mnxla7yagUepBJt5lNvhFqZLtyxAUtufwEqRKd6R0S69ZJH&callback=loadMapScenario' defer></script>
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <!-- <script
+      src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap&libraries=&v=weekly&language=az&region=AZ"
+      async
+    ></script> -->
+  </body>
+</html> -->
