@@ -11,6 +11,7 @@ namespace AspIntro
         {
             builder.Use<LoggerMiddleware>();
             builder.Use<StaticFilesMiddleware>();
+            builder.Use<MVCMiddleware>();
 
             return builder.Build();
         }

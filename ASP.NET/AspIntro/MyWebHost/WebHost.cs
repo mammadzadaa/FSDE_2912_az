@@ -28,7 +28,7 @@ namespace AspIntro
         {
             httpListener = new HttpListener();
             httpListener.Prefixes.Add($"http://localhost:{port}/");
-            httpListener.Prefixes.Add($"http://10.1.10.4:{port}/");
+            
             httpListener.Start();
 
             Console.WriteLine($"Server Started on port {port}");
