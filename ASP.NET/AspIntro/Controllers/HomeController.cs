@@ -7,17 +7,19 @@ namespace AspIntro.Controllers
 {
     class HomeController : Controller
     {
-        public void Index()
+        public IActionResult Index()
         {
-            var str = "Index page";
-            var bytes = Encoding.UTF8.GetBytes(str);
-            Context.Response.OutputStream.Write(bytes,0,bytes.Length);
+            //var str = "Index page";
+            //var bytes = Encoding.UTF8.GetBytes(str);
+            //Context.Response.OutputStream.Write(bytes,0,bytes.Length);
+
+            return Json(new { name = "Afti", surname = "Mammadov" });
 
         }
-        //public string Contacts()
-        //{
-        //    return "Contacts page";
-        //}
+        public IActionResult Contacts()
+        {
+            return View();
+        }
 
         //public string About()
         //{

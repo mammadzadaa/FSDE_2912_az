@@ -12,3 +12,6 @@ C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.dl
 C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.pdb
 C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.genruntimeconfig.cache
 C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\wwwroot\Home.html
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\obj\Debug\netcoreapp3.1\AspIntro.csproj.CopyComplete
+C:\Qt\Projects\FSDE_2912_az\ASP.NET\AspIntro\bin\Debug\netcoreapp3.1\View\Home\Contacts.html
