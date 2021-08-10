@@ -1,0 +1,7 @@
+{
+  "name": "Israfil",
+  "age": 15,
+  "ConnectionString": {
+    "DefaultConnection": "Main database"
+  }
+}

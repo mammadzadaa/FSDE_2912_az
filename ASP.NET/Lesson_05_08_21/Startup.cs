@@ -28,7 +28,7 @@ namespace Lesson_05_08_21
             });
 
             services.AddSingleton<ICounter, RandomCounter>();
-            services.AddSingleton<CounterService>();
+            services.AddScoped<CounterService>();
 
             //services.AddScoped<ICounter, RandomCounter>();
             //services.AddScoped<CounterService>();

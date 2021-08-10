@@ -7,7 +7,6 @@ C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\bin\Debug\net5.0\
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\bin\Debug\net5.0\Lesson_07_04_21.pdb
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\bin\Debug\net5.0\MyLib.dll
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\bin\Debug\net5.0\MyLib.pdb
-C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\Lesson_07_04_21.csprojAssemblyReference.cache
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\Lesson_07_04_21.GeneratedMSBuildEditorConfig.editorconfig
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\Lesson_07_04_21.AssemblyInfoInputs.cache
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\Lesson_07_04_21.AssemblyInfo.cs
@@ -17,3 +16,4 @@ C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\ref\Lesson_07_04_21.dll
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\Lesson_07_04_21.pdb
 C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\Lesson_07_04_21.genruntimeconfig.cache
+C:\Qt\Projects\FSDE_2912_az\System Programming\Lesson_07_04_21\obj\Debug\net5.0\Lesson_07_04_21.csproj.AssemblyReference.cache

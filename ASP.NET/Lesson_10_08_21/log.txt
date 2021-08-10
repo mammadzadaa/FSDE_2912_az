@@ -1,0 +1,20 @@
+Processing request /
+Your age is 15
+Processing request /favicon.ico
+Your age is 15
+Processing request /hello
+Your age is 15
+Processing request /favicon.ico
+Your age is 15
+Processing request /sheki
+Your age is 15
+Processing request /favicon.ico
+Your age is 15
+Processing request /
+Your age is 15
+Processing request /favicon.ico
+Your age is 15
+Processing request /akunamatata
+Your age is 15
+Processing request /favicon.ico
+Your age is 15

@@ -9,3 +9,4 @@ C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.cspr
 C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.dll
 C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\ref\MyLib.dll
 C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.pdb
+C:\Qt\Projects\FSDE_2912_az\System Programming\MyLib\obj\Debug\net5.0\MyLib.csproj.AssemblyReference.cache
