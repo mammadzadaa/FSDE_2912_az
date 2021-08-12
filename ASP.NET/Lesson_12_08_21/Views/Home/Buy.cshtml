@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = null;
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Ordering Form</title>
+</head>
+<body>
+    <div>
+        <h3>Your Order:</h3>
+        <br/>
+        <form  method="post">
+            <input type="hidden" name="PhoneId" value="@ViewBag.PhoneId"/>
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td><input type="text" name="User" /></td>
+                </tr>
+                <tr>
+                    <td>Address:</td>
+                    <td><input type="text" name="Address" /></td>
+                </tr>
+                <tr>
+                    <td>Phone:</td>
+                    <td><input type="text" name="ContactPhone" /></td>
+                </tr>
+                <tr><td><input type="submit" value="Send" /></td><td></td></tr>
+            </table>
+        </form>
+        
+    </div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Phone>
+@{
+    ViewData["Title"] = "List of Phones";
+    Layout = null;
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Smartphone Store</title>
+</head>
+<body>
+    <h3>SmartPhones:</h3>
+    <table>
+        <tr>
+            <td>Model</td>
+            <td>Vendor</td>
+            <td>Price</td>
+            <td></td>
+        </tr>
+        @foreach (var phone in Model)
+        {
+            <tr>
+                <td>@phone.Model</td>
+                <td>@phone.Vendor</td>
+                <td>@phone.Price</td>
+                <td><a href="~/Home/Buy/@phone.Id">Buy</a></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>
