@@ -1,0 +1,78 @@
+﻿@*Comment*@
+
+@model Person
+
+@{
+    ViewData["Title"] = "Test Page";
+    Layout = "~/Views/Shared/_Master.cshtml";
+}
+
+
+<div>
+    <h1>HELLO Fellows, this is test page!</h1>
+@{ 
+    @: <p>Hi</p><br/>
+    string head = "Hello World";
+    head += " Hi there!";
+    bool isReady = true;
+    int num = 6;
+    int j = 1;
+    var phones = new List<string>() { "Iphone", "Samsung", "Xiaomi" };
+}
+    @functions
+    {
+        public string GetStr()
+        {
+            return "Some function string";
+        }
+    }
+<br />
+    
+    <h4>
+        @GetStr()
+    </h4>
+<br />
+
+    @foreach (var p in phones)
+    {
+<h6>Phone : @p</h6>
+    }
+
+    @while (j < 5)
+    {
+    <p>Print : @j</p>
+        j++;
+    }
+
+
+    @switch (num)
+    {
+        case 5:
+            <h3>Five</h3>
+            break;
+        case 6:
+            <h3>Six</h3>
+            break;
+    }
+
+    @if (isReady)
+    {
+        <p>@DateTime.Now.ToLongTimeString()</p>
+        <p>@head</p>
+    }
+
+    @{ 
+        int i = 10;
+        @: <text>@i</text>
+    }
+<p>@(i+1)</p>
+<h2>@Model.Name</h2>
+</div>
+
+@*@section Footer
+{
+    <div>
+        <h4>Footer</h4>
+        <p>Finish la comedia</p>
+    </div>
+}*@
