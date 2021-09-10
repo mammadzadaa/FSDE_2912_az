@@ -11,6 +11,7 @@ namespace Lesson_15_04_21_L
         {
         IPEndPoint endPoint = new IPEndPoint(IPAddress.Parse("127.0.0.1"),5001);
             TcpClient client = new TcpClient();
+            
             client.Connect(endPoint);
 
             using (var writer = new StreamWriter(client.GetStream()))
